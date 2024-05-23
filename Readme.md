@@ -41,22 +41,23 @@ If you want to train them yourself, please follow the LLM-SSD training steps.
 
 ## Figure
 
-### Overall framework of the soundscape describer LLM-SSD
+### 1) Overall framework of the soundscape describer LLM-SSD
 
 <h3 align="center"> <p></p></h3>
 <div align="center">
 <img src="Figure/LLM_SSD.png" width=100%/> 
 </div>  
 
-### The acoustic model SoundEQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective response (AR)
+<br>
+### 2) The acoustic model SoundEQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective response (AR)
 
 <h3 align="center"> <p></p></h3>
 <div align="center">
 <img src="Figure/SoundEQnet.png" width=100%/> 
 </div> 
 
-
-### Process of the LLM part in the soundscape describer LLM-SSD
+<br>
+### 3) Process of the LLM part in the soundscape describer LLM-SSD
 <h3 align="center"> <p></p></h3>
 <div align="center">
 <img src="Figure/LLM_part.png" width=100%/> 
