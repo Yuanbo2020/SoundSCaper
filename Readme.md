@@ -2,7 +2,7 @@
 
 ## LLM-SSD Training steps
 
-1) Download and prepare the dataset in Dataset_ARAUS; ARAUS can be downloaded [ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main). The labels of our annotated acoustic scenes and audio events are in Dataset_ARAUS.
+1) Download and prepare the dataset in [Dataset_ARAUS](Dataset_ARAUS); ARAUS can be downloaded [ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main). The labels of our annotated acoustic scenes and audio events are in [Dataset_ARAUS](Dataset_ARAUS).
 
 
 2) Use the code in [Feature_log_mel](Feature_log_mel) to extract log mel acoustic features; use the code in [Feature_loudness_ISO532_1](Feature_loudness_ISO532_1) to extract the ISO 532-1:2017 standard loudness features.
@@ -38,6 +38,7 @@ The trained models of the other 7 models in the paper have been attached to thei
 If you want to train them yourself, please follow the LLM-SSD training steps.
 
 
+#
 
 # Figure
 
