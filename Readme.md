@@ -17,7 +17,7 @@
 
 [Human_assessment](Human_assessment) contains 
 
-1) a call for experiment; 
+1\) a call for experiment; 
 
 2) assessment raw materials: assessment dataset; participant instruction file; local and online questionnaires; 
 
