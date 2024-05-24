@@ -23,7 +23,7 @@
 
 3) assessment statistical results from a jury composed of 16 audio/soundscape experts.
 
-<! -- 
+<!-- 
 ### 3. LLM-SSD One Run
 
 [One_Run](One_Run) provides the scripts to convert target audio clips directly into soundscape descriptions for easy inference-only use.
