@@ -4,10 +4,10 @@
 
 ### 1. SSD Training steps
 
-1\) Download and prepare the dataset in [Dataset_ARAUS](Dataset_ARAUS); ARAUS can be downloaded [ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main). The labels of our annotated acoustic scenes and audio events are in [Dataset_ARAUS](Dataset_ARAUS).
+1\) Download and prepare the dataset in [Dataset_ARAUS](Dataset_ARAUS); ARAUS can be downloaded [ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main). <br> The labels of our annotated acoustic scenes and audio events are in [Dataset_ARAUS](Dataset_ARAUS).
 
 
-2\) Use the code in [Feature_log_mel](Feature_log_mel) to extract log mel acoustic features; use the code in [Feature_loudness_ISO532_1](Feature_loudness_ISO532_1) to extract the ISO 532-1:2017 standard loudness features.
+2\) Use the code in [Feature_log_mel](Feature_log_mel) to extract log mel acoustic features. <br> Use the code in [Feature_loudness_ISO532_1](Feature_loudness_ISO532_1) to extract the ISO 532-1:2017 standard loudness features.
 
 3\) Use the code in [Model_SoundEQnet](Model_SoundEQnet) to train SoundEQnet.
   
@@ -76,4 +76,18 @@ If you want to train them yourself, please follow the SSD training steps.
 ```2) Unzip the Pretrained_models under the application folder```
 
 ```3) Enter the application folder: cd application```
+
+
+```python 
+cd Other_ARAUS_CNN/application
+python inference.py
+----------------------------------------------------------------------------------------
+ASC	Acc:  87.95 %
+AEC	AUC: 0.85
+PAQ 8D AR	MEAN MSE: 1.196
+``` 
+
+
+
+
 
