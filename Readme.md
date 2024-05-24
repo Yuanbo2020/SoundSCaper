@@ -79,12 +79,11 @@ If you want to train them yourself, please follow the SSD training steps.
 
 
 ```python 
-cd Other_ARAUS_CNN/application
+cd Other_ARAUS_CNN/application/
 python inference.py
 ----------------------------------------------------------------------------------------
-ASC	Acc:  87.95 %
-AEC	AUC: 0.85
-PAQ 8D AR	MEAN MSE: 1.196
+ASC	Acc:  87.95 %;	AEC	AUC:  0.85
+PAQ_8D_AR	MEAN MSE: 1.196
 ``` 
 
 
