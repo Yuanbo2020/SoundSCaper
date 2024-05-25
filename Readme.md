@@ -82,8 +82,10 @@ If you want to train them yourself, please follow the SSD training steps.
 cd Other_ARAUS_CNN/application/
 python inference.py
 ----------------------------------------------------------------------------------------
-ASC	Acc:  87.95 %;	AEC	AUC:  0.85
+ASC	Acc:  87.95%
+AEC	AUC:  0.85
 PAQ_8D_AR	MEAN MSE: 1.196
+pleasant_mse: 1.101 eventful_mse: 1.174 chaotic_mse: 1.154 vibrant_mse: 1.125 uneventful_mse: 1.302 calm_mse: 1.183 annoying_mse: 1.206 monotonous_mse: 1.319
 ``` 
 
 
