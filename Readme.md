@@ -1,6 +1,27 @@
 # Automatic soundscape captioner (SoundSCaper): Soundscape Captioning using Sound Affective Quality Network and Large Language Model
 
-[TOC]
+<br>
+
+- [SoundSCaper)](#automatic-soundscape-captioner--soundscaper---soundscape-captioning-using-sound-affective-quality-network-and-large-language-model)
+  * [Introduction](#introduction)
+    + [1. SoundSCaper training steps](#1-soundscaper-training-steps)
+    + [2. Expert evaluation of soundscape caption quality](#2-expert-evaluation-of-soundscape-caption-quality) 
+    + [3. Other models](#3-other-models)
+  * [Figure](#figure)
+    + [1. Overall framework of the automatic soundscape captioner (SoundSCaper)](#1-overall-framework-of-the-automatic-soundscape-captioner--soundscaper-)
+    + [2. The acoustic model SoundEQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective response (AR)](#2-the-acoustic-model-soundeqnet-simultaneously-models-acoustic-scene--as---audio-event--ae---and-emotion-related-affective-response--ar-)
+    + [3. Process of the LLM part in the SoundSCaper](#3-process-of-the-llm-part-in-the-soundscaper)
+  * [Run models](#run-models)
+    + [1. ARAUS_CNN](#1-araus-cnn)
+    + [2. Baseline CNN](#2-baseline-cnn)
+    + [3. Hierachical CNN](#3-hierachical-cnn)
+    + [4. MobileNetV2](#4-mobilenetv2)
+    + [5. YAMNet](#5-yamnet)
+    + [6. CNN-Transformer](#6-cnn-transformer)
+    + [7. PANNs](#7-panns)
+    + [8. SoundEQnet](#8-soundeqnet)
+
+<br>
 
 ## Introduction
 
