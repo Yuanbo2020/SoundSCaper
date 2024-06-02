@@ -1,6 +1,6 @@
 # Automatic soundscape captioner (SoundSCaper): Soundscape Captioning using Sound Affective Quality Network and Large Language Model
 
-[toc]
+[TOC]
 
 ## Introduction
 
