@@ -156,9 +156,9 @@ uneventful_mse: 1.510 calm_mse: 1.239 annoying_mse: 1.360 monotonous_mse: 1.466
 
 ### 7. PANNs
 
-```1) Please download the trained model [PANNs_AS_AE_AR](https://drive.google.com/file/d/11oIX8cAmqi4a55r8fnj6nMjOA1p-OHHw/view?usp=sharing) ~304MB``` 
-```2) unzip it``` 
-```3) put the model "final_model.pth" under the "Other_PANNs\application\system\model" ```
+1) Please download the trained model [PANNs_AS_AE_AR](https://drive.google.com/file/d/11oIX8cAmqi4a55r8fnj6nMjOA1p-OHHw/view?usp=sharing) ~304MB 
+2) unzip it 
+3) put the model "final_model.pth" under the "Other_PANNs\application\system\model" 
 
 ```python  
 cd Other_PANNs/application/
