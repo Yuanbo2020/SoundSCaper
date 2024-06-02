@@ -1,5 +1,7 @@
 # Automatic soundscape captioner (SoundSCaper): Soundscape Captioning using Sound Affective Quality Network and Large Language Model
 
+[toc]
+
 ## Introduction
 
 ### 1. SoundSCaper training steps
