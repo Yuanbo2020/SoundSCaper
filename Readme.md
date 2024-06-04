@@ -11,8 +11,8 @@
     + [1. Overall framework of the automatic soundscape captioner (SoundSCaper)](#1-overall-framework-of-the-automatic-soundscape-captioner-soundscaper)
     + [2. The acoustic model SoundEQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective response (AR)](#2-the-acoustic-model-soundeqnet-simultaneously-models-acoustic-scene-as-audio-event-ae-and-emotion-related-affective-response-ar)
     + [3. Process of the LLM part in the SoundSCaper](#3-process-of-the-llm-part-in-the-soundscaper)
-	+ [4. Spearman's rho correlation ($r$) between different ARs and AEs predicted by SoundAQnet](#4-spearmans-rho-correlation-r-between-different-ars-and-aes-predicted-by-soundaqnet)
-	+ [5. Spearman's rho correlation ($r$) between different AEs and 8D ARs predicted by SoundAQnet](#5-spearmans-rho-correlation-r-between-different-aes-and-8d-ars-predicted-by-soundaqnet)
+	+ [4. Spearman's rho correlation between different ARs and AEs predicted by SoundAQnet](#4-spearmans-rho-correlation-r-between-different-ars-and-aes-predicted-by-soundaqnet)
+	+ [5. Spearman's rho correlation between different AEs and 8D ARs predicted by SoundAQnet](#5-spearmans-rho-correlation-r-between-different-aes-and-8d-ars-predicted-by-soundaqnet)
   * [Run models](#run-models)
     + [1. ARAUS_CNN](#1-araus_cnn)
     + [2. Baseline CNN](#2-baseline-cnn)
@@ -97,6 +97,8 @@ If you want to train them yourself, please follow the SoundSCaper training steps
 <div align="center">
 <img src="Figure/LLM_part.png" width=100%/> 
 </div> 
+
+For full prompts and the LLM script, please see [here](LLM_scripts/SoundSCaper_LLM.py).
 
 
 <br>
