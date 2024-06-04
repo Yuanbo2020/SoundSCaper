@@ -76,7 +76,7 @@ If you want to train them yourself, please follow the SoundSCaper training steps
 
 <h3 align="center"> <p></p></h3>
 <div align="center">
-<img src="Figure/LLM_SSD.png" width=100%/> 
+<img src="Figure/overall_framework.png" width=100%/> 
 </div>  
 
 <br>
@@ -97,6 +97,26 @@ If you want to train them yourself, please follow the SoundSCaper training steps
 </div> 
 
 
+<br>
+
+### 4. Spearman's rho correlation ($r$) between different ARs and AEs predicted by SoundAQnet
+<h3 align="center"> <p></p></h3>
+<div align="center">
+<img src="Figure/fig_PAQ2_event15.png" width=100%/> 
+</div> 
+
+
+For all 8D AR results, please see [here](Figure/PAQ8ARs.png).
+
+<br>
+
+### 5. Spearman's rho correlation ($r$) between different AEs and 8D ARs predicted by SoundAQnet
+<h3 align="center"> <p></p></h3>
+<div align="center">
+<img src="Figure/fig_event2_PAQ8.png" width=100%/> 
+</div> 
+
+For all 15 AE results, please see [here](Figure/event15.png).
 
 ## Run models
 
