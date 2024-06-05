@@ -134,7 +134,7 @@ Please download the testing set (about 3 GB) from [here](https://drive.google.co
 ```python 
 cd Other_ARAUS_CNN/application/
 python inference.py
-*****
+-----------------------------------------------------------------------------------------------------------
 Number of 3576 audios in testing
 Parameters num: 0.521472 M
 ASC	Acc:  89.42 %
@@ -149,7 +149,7 @@ uneventful_mse: 1.246 calm_mse: 1.059 annoying_mse: 1.198 monotonous_mse: 1.259
 ```python 
 cd Other_Baseline_CNN/application/
 python inference.py
-*****
+-----------------------------------------------------------------------------------------------------------
 Parameters num: 1.0099 M
 ASC	Acc:  86.96 %
 AEC	AUC:  0.92
@@ -163,7 +163,7 @@ uneventful_mse: 1.378 calm_mse: 1.079 annoying_mse: 1.261 monotonous_mse: 1.457
 ```python 
 cd Other_Hierarchical_CNN/application/
 python inference.py
-*****
+-----------------------------------------------------------------------------------------------------------
 Parameters num: 1.009633 M
 ASC	Acc:  90.77 %
 AEC	AUC:  0.89
@@ -177,7 +177,7 @@ uneventful_mse: 1.286 calm_mse: 1.087 annoying_mse: 1.327 monotonous_mse: 1.313
 ```python 
 cd Other_MobileNetV2/application/
 python inference.py
-*****
+-----------------------------------------------------------------------------------------------------------
 Parameters num: 2.259164 M
 ASC	Acc:  89.89 %
 AEC	AUC:  0.92
@@ -191,7 +191,7 @@ uneventful_mse: 1.338 calm_mse: 1.120 annoying_mse: 1.173 monotonous_mse: 1.241
 ```python 
 cd Other_YAMNet/application/
 python inference.py
-*****
+-----------------------------------------------------------------------------------------------------------
 Parameters num: 3.2351 M
 ASC	Acc:  88.46 %
 AEC	AUC:  0.91
@@ -205,7 +205,7 @@ uneventful_mse: 1.388 calm_mse: 1.170 annoying_mse: 1.262 monotonous_mse: 1.275
 ```python 
 cd Other_CNN_Transformer/application/
 python inference.py
-*****
+-----------------------------------------------------------------------------------------------------------
 Parameters num: 12.293996 M
 ASC	Acc:  92.74 %
 AEC	AUC:  0.93
@@ -223,7 +223,7 @@ uneventful_mse: 1.510 calm_mse: 1.239 annoying_mse: 1.360 monotonous_mse: 1.466
 ```python  
 cd Other_PANNs/application/
 python inference.py
-*****
+-----------------------------------------------------------------------------------------------------------
 Parameters num: 79.731036 M
 ASC	Acc:  93.13 %
 AEC	AUC:  0.91
@@ -237,7 +237,7 @@ uneventful_mse: 1.344 calm_mse: 1.133 annoying_mse: 1.146 monotonous_mse: 1.319
 ```python 
 cd SoundEQnet/application/
 python inference.py
-*****
+-----------------------------------------------------------------------------------------------------------
 Parameters num: 2.701812 M
 ASC	Acc:  95.76 %
 AEC	AUC:  0.94
