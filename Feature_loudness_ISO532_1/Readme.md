@@ -18,7 +18,7 @@ The source code used to build the *ISO_532-1.exe* can be found on the same link.
 
 - Please place the audio clip files in '.wav' format to be processed into the **Dataset_wav** folder
  
-- If the audio file is not in ".wav" format, please use the "convert_flac_to_wav.py" here to convert it.
+- If the audio file is not in ".wav" format, please use the "convert_flac_to_wav.py" [here](Feature_log_mel/convert_flac_to_wav.py) to convert it.
 
 
 ## Demo:
