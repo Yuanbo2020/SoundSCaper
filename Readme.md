@@ -11,7 +11,7 @@ Paper link:
     + [3. Other models](#3-other-models)
   * [Figure](#figure)
     + [1. Overall framework of the automatic soundscape captioner (SoundSCaper)](#1-overall-framework-of-the-automatic-soundscape-captioner-soundscaper)
-    + [2. The acoustic model SoundEQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective response (AR)](#2-the-acoustic-model-soundeqnet-simultaneously-models-acoustic-scene-as-audio-event-ae-and-emotion-related-affective-response-ar)
+    + [2. The acoustic model SoundAQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective response (AR)](#2-the-acoustic-model-soundaqnet-simultaneously-models-acoustic-scene-as-audio-event-ae-and-emotion-related-affective-response-ar)
     + [3. Process of the LLM part in the SoundSCaper](#3-process-of-the-llm-part-in-the-soundscaper)
 	+ [4. Spearman's rho correlation between different ARs and AEs predicted by SoundAQnet](#4-spearmans-rho-correlation-r-between-different-ars-and-aes-predicted-by-soundaqnet)
 	+ [5. Spearman's rho correlation between different AEs and 8D ARs predicted by SoundAQnet](#5-spearmans-rho-correlation-r-between-different-aes-and-8d-ars-predicted-by-soundaqnet)
@@ -23,7 +23,7 @@ Paper link:
     + [5. YAMNet](#5-yamnet)
     + [6. CNN-Transformer](#6-cnn-transformer)
     + [7. PANNs](#7-panns)
-    + [8. SoundEQnet](#8-soundeqnet)
+    + [8. SoundAQnet](#8-soundaqnet)
 
 <br>
 
@@ -36,9 +36,9 @@ Paper link:
 
 2\) Use the code in [Feature_log_mel](Feature_log_mel) to extract log mel acoustic features. <br> Use the code in [Feature_loudness_ISO532_1](Feature_loudness_ISO532_1) to extract the ISO 532-1:2017 standard loudness features.
 
-3\) Use the code in [Model_SoundEQnet](Model_SoundEQnet) to train SoundEQnet.
+3\) Use the code in [SoundAQnet](SoundAQnet) to train SoundAQnet.
   
-4\) In [LLM_scripts](LLM_scripts), read the audio scene, audio events, and PAQ 8-dimensional affective response corresponding to the test audio predicted by the trained SoundEQnet, and then output the corresponding soundscape descriptions. <br> Please fill in your OpenAI username and password in [LLM_scripts](LLM_scripts).
+4\) In [LLM_scripts](LLM_scripts), read the audio scene, audio events, and PAQ 8-dimensional affective response corresponding to the test audio predicted by the trained SoundAQnet, and then output the corresponding soundscape descriptions. <br> Please fill in your OpenAI username and password in [LLM_scripts](LLM_scripts).
 
 ### 2. Expert evaluation of soundscape caption quality
 
@@ -85,11 +85,11 @@ If you want to train them yourself, please follow the SoundSCaper training steps
 
 <br>
 
-### 2. The acoustic model SoundEQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective response (AR)
+### 2. The acoustic model SoundAQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective response (AR)
 
 <h3 align="center"> <p></p></h3>
 <div align="center">
-<img src="Figure/SoundEQnet.png" width=100%/> 
+<img src="Figure/SoundAQnet.png" width=100%/> 
 </div> 
 
 <br>
@@ -232,10 +232,10 @@ pleasant_mse: 1.010 eventful_mse: 1.165 chaotic_mse: 1.132 vibrant_mse: 1.072
 uneventful_mse: 1.344 calm_mse: 1.133 annoying_mse: 1.146 monotonous_mse: 1.319
 ``` 
  
-### 8. SoundEQnet
+### 8. SoundAQnet
 
 ```python 
-cd SoundEQnet/application/
+cd SoundAQnet/application/
 python inference.py
 -----------------------------------------------------------------------------------------------------------
 Parameters num: 2.701812 M
