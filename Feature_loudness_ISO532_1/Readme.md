@@ -1,4 +1,4 @@
-The script running *ISO_532-1.exe* loudness calculation from ISO 532-1:2017 standard. 
+The script runs *ISO_532-1.exe* loudness calculation from ISO 532-1:2017 standard. 
 
 ## Download
 
