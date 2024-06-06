@@ -15,7 +15,7 @@ Paper link:
     + [3. Process of the LLM part in the SoundSCaper](#3-process-of-the-llm-part-in-the-soundscaper)
 	+ [4. Spearman's rho correlation between different ARs and AEs predicted by SoundAQnet](#4-spearmans-rho-correlation-r-between-different-ars-and-aes-predicted-by-soundaqnet)
 	+ [5. Spearman's rho correlation between different AEs and 8D ARs predicted by SoundAQnet](#5-spearmans-rho-correlation-r-between-different-aes-and-8d-ars-predicted-by-soundaqnet)
-  * [Run models](#run-models)
+  * [Run Sound-AQ models to predict the acoustic scene, audio event, and human-perceived affective responses](#run-models)
     + [1. ARAUS_CNN](#1-araus_cnn)
     + [2. Baseline CNN](#2-baseline-cnn)
     + [3. Hierachical CNN](#3-hierachical-cnn)
@@ -31,12 +31,37 @@ Paper link:
 
 ### 1. SounAQnet training steps
 
-1\) Download and prepare the dataset in [Dataset_ARAUS](Dataset_ARAUS); ARAUS can be downloaded [ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main). <br> The labels of our annotated acoustic scenes and audio events are in [Dataset_ARAUS](Dataset_ARAUS).
+1\) Dataset preparation
 
+- Download and place the ARAUS dataset ([ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main)) into the [Dataset_all_ARAUS](Dataset_all_ARAUS) directory or the [Dataset_training_validation_test](Dataset_training_validation_test) directory (recommended)
 
-2\) Use the code in [Feature_log_mel](Feature_log_mel) to extract log mel acoustic features. <br> Use the code in [Feature_loudness_ISO532_1](Feature_loudness_ISO532_1) to extract the ISO 532-1:2017 standard loudness features.
+- Follow the ARAUS steps ([ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main)) to generate the raw audio dataset. The dataset is about 53 GB, please reserve enough space when preparing the dataset.
 
-3\) Use the code in [SoundAQnet](SoundAQnet) to train SoundAQnet.
+- Split the raw audio dataset according to the training, validation, and test audio file IDs in the [Dataset_training_validation_test](Dataset_training_validation_test) directory.
+
+The labels of our annotated acoustic scenes and audio events, for the audio clips in the ARAUS dataset, are placed in the [Dataset_all_ARAUS](Dataset_all_ARAUS) directory and the [Dataset_training_validation_test](Dataset_training_validation_test) directory.
+
+2) Acoustic feature extraction
+
+- Log Mel spectrogram 
+Use the code in [Feature_log_mel](Feature_log_mel) to extract log mel features.
+	- Place the dataset into the `Dataset` folder.
+	- If the audio file is not in `.wav` format, please run the `convert_flac_to_wav.py` first.
+	- Run `log_mel_spectrogram.py`
+ 
+- Loudness features (ISO 532-1)
+ Use the code in [Feature_loudness_ISO532_1](Feature_loudness_ISO532_1) to extract the ISO 532-1:2017 standard loudness features.
+	- Download the *ISO_532-1.exe* file, (which has already been placed in the folder `ISO_532_bin`).
+	-Please place the audio clip files in `.wav` format to be processed into the `Dataset_wav` folder
+	-If the audio file is not in `.wav` format, please use the `convert_flac_to_wav.py` to convert it.
+	-Run `ISO_loudness.py`
+
+3\) Training SoundAQnet
+- Prepare the training, validation, and test sets according to the corresponding files in the [Dataset_training_validation_test](Dataset_training_validation_test) directory
+- Modify the `DataGenerator_Mel_loudness_graph` function to load the dataset
+- Run `Training.py` in the `application` directory
+
+-------------
 
 ### 2. Generate soundscape captions using generic LLM
 
@@ -128,7 +153,7 @@ For all 8D AR results, please see [here](Figure/PAQ8ARs.png).
 
 For all 15 AE results, please see [here](Figure/event15.png).
 
-## Run models
+## Run Sound-AQ models to predict the acoustic scene, audio event, and human-perceived affective responses 
 
 Please download the testing set (about 3 GB) from [here](https://drive.google.com/file/d/1Rzse5NfbNKyT3mNgcz-y1GUueAnjlOR1/view?usp=sharing), and place it under the Dataset folder.
  
