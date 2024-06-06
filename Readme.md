@@ -2,7 +2,7 @@
 
 Paper link: 
 
-<br>
+-------
 
 - [SoundSCaper](#automatic-soundscape-captioner--soundscaper---soundscape-captioning-using-sound-affective-quality-network-and-large-language-model)
   * [Introduction](#introduction)
@@ -122,31 +122,30 @@ This part, [LLM_scripts_for_generating_soundscape_caption](LLM_scripts_for_gener
 Please see details [here](LLM_scripts_for_generating_soundscape_caption#3-demonstration).
 
 -------------
-
-
-
-
-
-
-
-
-
+ 
 
 ### 3. Expert evaluation of soundscape caption quality
 
 [Human_assessment](Human_assessment) contains 
 
-1) a call for experiment; 
+1) a call for experiment
 
-2) assessment raw materials: assessment dataset; participant instruction file; local and online questionnaires; 
+2) [assessment raw materials](Human_assessment/Assessment_materials) 
+- [assessment audio dataset](Human_assessment/Assessment_materials/final_60)
+- participant instruction file
+- local and online questionnaires 
 
-3) assessment statistical results from a jury composed of 16 audio/soundscape experts.
+3) [Expert assessment results analysis](Human_assessment/Expert_assessment_results_analysis) 
 
-There are two sheets in the file "SoundSCaper_expert_evaluation_results.xlsx". 
+Here are the assessment statistical results from a jury composed of 16 audio/soundscape experts.
 
-Sheet 1 is the statistical results of 16 human experts and SoundSCaper on the evaluation dataset D1 from the test set.
+There are two sheets in the file `SoundSCaper_expert_evaluation_results.xlsx`. 
 
-Sheet 2 is the statistical results of 16 human experts and SoundSCaper on the model-unseen mixed external dataset D2, which has 30 samples randomly selected from 5 external audio scene datasets with varying lengths and acoustic properties.
+- Sheet 1 is the statistical results of 16 human experts and SoundSCaper on the evaluation dataset D1 from the test set.
+
+- Sheet 2 is the statistical results of 16 human experts and SoundSCaper on the model-unseen mixed external dataset D2, which has 30 samples randomly selected from 5 external audio scene datasets with varying lengths and acoustic properties.
+
+-------------
 
 <!-- 
 ### 3. SoundSCaper One Run
@@ -158,7 +157,7 @@ If you want to skip the tedious training steps and use LLM-SoundSCaper directly,
 Please fill in your OpenAI username and password in LLM_scripts.
 -->
 
-### 3. Other models
+### 4. Other models
   
 The trained models of the other 7 models in the paper have been attached to their respective folders. 
 
@@ -166,6 +165,7 @@ The trained models of the other 7 models in the paper have been attached to thei
 
 - If you want to test or evaluate these models, please run the model inference [here](#run-models).
 
+-------------
 <br>
 
 ## Figure
@@ -218,9 +218,15 @@ For all 8D AR results, please see [here](Figure/PAQ8ARs.png).
 
 For all 15 AE results, please see [here](Figure/event15.png).
 
+
+-------------
+<br>
+
+
 ## Run Sound-AQ models to predict the acoustic scene, audio event, and human-perceived affective responses 
 
 Please download the testing set (about 3 GB) from [here](https://drive.google.com/file/d/1Rzse5NfbNKyT3mNgcz-y1GUueAnjlOR1/view?usp=sharing), and place it under the Dataset folder.
+ 
  
 
 ### 1. AD_CNN
@@ -310,9 +316,9 @@ uneventful_mse: 1.510 calm_mse: 1.239 annoying_mse: 1.360 monotonous_mse: 1.466
 
 ### 7. PANNs
 
-1) Please download the trained model [PANNs_AS_AE_AR](https://drive.google.com/file/d/11oIX8cAmqi4a55r8fnj6nMjOA1p-OHHw/view?usp=sharing) ~304MB 
-2) unzip it 
-3) put the model "final_model.pth" under the "Other_PANNs\application\system\model" 
+* Please download the trained model [PANNs_AS_AE_AR](https://drive.google.com/file/d/11oIX8cAmqi4a55r8fnj6nMjOA1p-OHHw/view?usp=sharing) ~304MB 
+* unzip it 
+* put the model `final_model.pth` under the `Other_PANNs\application\system\model` 
 
 ```python  
 cd Other_PANNs/application/
