@@ -31,7 +31,7 @@ The default temperature value is used in the script so that the output may vary 
 python LLM_GPT_soundscape_caption.py
 -----------------------------------------------------------------------------------------------------------
 Soundscape audio clip: fold_1_participant_00056_stimulus_13
-Soundscape caption: In this park, you will hear Bird and Animal sounds, with occasional Human sounds and Speech in the background. The atmosphere feels pleasant and calm, perfect for relaxation and enjoying nature.
+Soundscape caption: In this park, you may hear bird songs, occasional animal sounds, human activities, and snippets of speech. The overall atmosphere feels pleasant and calm, with a touch of natural tranquility despite some human presence.
 ```
 
 
