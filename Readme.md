@@ -179,7 +179,7 @@ The trained models of the other 7 models in the paper have been attached to thei
 <img src="Figure/overall_framework.png" width=100%/> 
 </div>  
 
-<br>
+-------------
 
 ### 2. The acoustic model SoundAQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective response (AR)
 
@@ -188,7 +188,7 @@ The trained models of the other 7 models in the paper have been attached to thei
 <img src="Figure/SoundAQnet.png" width=100%/> 
 </div> 
 
-<br>
+-------------
 
 ### 3. Process of the LLM part in the SoundSCaper
 <h3 align="center"> <p></p></h3>
@@ -198,8 +198,7 @@ The trained models of the other 7 models in the paper have been attached to thei
 
 For full prompts and the LLM script, please see [here](LLM_scripts/SoundSCaper_LLM.py).
 
-
-<br>
+-------------
 
 ### 4. Spearman's rho correlation ($r$) between different ARs and AEs predicted by SoundAQnet
 <h3 align="center"> <p></p></h3>
@@ -210,7 +209,7 @@ For full prompts and the LLM script, please see [here](LLM_scripts/SoundSCaper_L
 
 For all 8D AR results, please see [here](Figure/PAQ8ARs.png).
 
-<br>
+-------------
 
 ### 5. Spearman's rho correlation ($r$) between different AEs and 8D ARs predicted by SoundAQnet
 <h3 align="center"> <p></p></h3>
@@ -219,8 +218,7 @@ For all 8D AR results, please see [here](Figure/PAQ8ARs.png).
 </div> 
 
 For all 15 AE results, please see [here](Figure/event15.png).
-
-
+ 
 -------------
 <br>
 
