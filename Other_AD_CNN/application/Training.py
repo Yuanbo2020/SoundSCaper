@@ -21,7 +21,7 @@ def main(argv):
 
     models_dir = os.path.join(system_path, 'model')
 
-    using_model = ARAUS_CNN
+    using_model = AD_CNN
 
     model = using_model()
 

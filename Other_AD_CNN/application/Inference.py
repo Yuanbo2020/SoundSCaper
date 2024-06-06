@@ -22,7 +22,7 @@ def cal_auc(targets_event, outputs_event):
 
 
 def main(argv):
-    using_model = ARAUS_CNN
+    using_model = AD_CNN
 
     model = using_model()
 

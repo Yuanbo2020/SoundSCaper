@@ -16,7 +16,7 @@ Paper link:
 	+ [4. Spearman's rho correlation between different ARs and AEs predicted by SoundAQnet](#4-spearmans-rho-correlation-r-between-different-ars-and-aes-predicted-by-soundaqnet)
 	+ [5. Spearman's rho correlation between different AEs and 8D ARs predicted by SoundAQnet](#5-spearmans-rho-correlation-r-between-different-aes-and-8d-ars-predicted-by-soundaqnet)
   * [Run Sound-AQ models to predict the acoustic scene, audio event, and human-perceived affective responses](#run-models)
-    + [1. ARAUS_CNN](#1-araus_cnn)
+    + [1. AD_CNN](#1-ad_cnn)
     + [2. Baseline CNN](#2-baseline-cnn)
     + [3. Hierachical CNN](#3-hierachical-cnn)
     + [4. MobileNetV2](#4-mobilenetv2)
@@ -197,10 +197,10 @@ For all 15 AE results, please see [here](Figure/event15.png).
 Please download the testing set (about 3 GB) from [here](https://drive.google.com/file/d/1Rzse5NfbNKyT3mNgcz-y1GUueAnjlOR1/view?usp=sharing), and place it under the Dataset folder.
  
 
-### 1. ARAUS_CNN
+### 1. AD_CNN
 
 ```python 
-cd Other_ARAUS_CNN/application/
+cd Other_AD_CNN/application/
 python inference.py
 -----------------------------------------------------------------------------------------------------------
 Number of 3576 audios in testing

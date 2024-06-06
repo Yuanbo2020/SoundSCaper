@@ -50,11 +50,11 @@ def init_bn(bn):
 
 
 
-class ARAUS_CNN(nn.Module):
+class AD_CNN(nn.Module):
     def __init__(self, event_class=len(config.event_labels),
                  scene_class=len(config.scene_labels)):
 
-        super(ARAUS_CNN, self).__init__()
+        super(AD_CNN, self).__init__()
 
         in_channels = 1
         out_channels = 16
