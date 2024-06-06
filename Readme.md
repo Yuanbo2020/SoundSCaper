@@ -29,13 +29,13 @@ Paper link:
 
 ## Introduction
 
-### 1. SounAQnet training steps (Optional)
+### 0. SounAQnet training steps (Optional)
 
 1\) Dataset preparation
 
 - Download and place the ARAUS dataset ([ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main)) into the [Dataset_all_ARAUS](Dataset_all_ARAUS) directory or the [Dataset_training_validation_test](Dataset_training_validation_test) directory (recommended)
 
-- Follow the ARAUS steps ([ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main)) to generate the raw audio dataset. The dataset is about 53 GB, please reserve enough space when preparing the dataset.
+- Follow the ARAUS steps ([ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main)) to generate the raw audio dataset. The dataset is about 53 GB, please reserve enough space when preparing the dataset. (If it is in WAV, it may be about 132 GB.)
 
 - Split the raw audio dataset according to the training, validation, and test audio file IDs in the [Dataset_training_validation_test](Dataset_training_validation_test) directory.
 
@@ -46,14 +46,14 @@ The labels of our annotated acoustic scenes and audio events, for the audio clip
 - Log Mel spectrogram 
 Use the code in [Feature_log_mel](Feature_log_mel) to extract log mel features.
 	- Place the dataset into the `Dataset` folder.
-	- If the audio file is not in `.wav` format, please run the `convert_flac_to_wav.py` first.
+	- If the audio file is not in `.wav` format, please run the `convert_flac_to_wav.py` first. (This may generate ~132 GB of data as WAV files.)
 	- Run `log_mel_spectrogram.py`
  
 - Loudness features (ISO 532-1)
  Use the code in [Feature_loudness_ISO532_1](Feature_loudness_ISO532_1) to extract the ISO 532-1:2017 standard loudness features.
 	- Download the *ISO_532-1.exe* file, (which has already been placed in the folder `ISO_532_bin`).
 	-Please place the audio clip files in `.wav` format to be processed into the `Dataset_wav` folder
-	-If the audio file is not in `.wav` format, please use the `convert_flac_to_wav.py` to convert it.
+	-If the audio file is not in `.wav` format, please use the `convert_flac_to_wav.py` to convert it. (This may generate ~132 GB of data as WAV files.)
 	-Run `ISO_loudness.py`
 
 3\) Training SoundAQnet
@@ -63,7 +63,7 @@ Use the code in [Feature_log_mel](Feature_log_mel) to extract log mel features.
 
 -------------
 
-### 2. Use SoundAQnet to infer soundscape audio clips for LLMs
+### 1. Use SoundAQnet to infer soundscape audio clips for LLMs
 
 This part [Inferring_soundscape_clips_for_LLM](Inferring_soundscape_clips_for_LLM) aims to convert the soundscape audio clips into the predicted audio event probabilities, the acoustic scene labels, and the ISOP, ISOE, and emotion-related PAQ values.
 
@@ -101,10 +101,36 @@ Please see details [here](Inferring_soundscape_clips_for_LLM#4-demonstration).
 -------------
 
 
-
 ### 2. Generate soundscape captions using generic LLM
 
-4\) In [LLM_scripts](LLM_scripts), read the audio scene, audio events, and PAQ 8-dimensional affective response corresponding to the test audio predicted by the trained SoundAQnet, and then output the corresponding soundscape descriptions. <br> Please fill in your OpenAI username and password in [LLM_scripts](LLM_scripts).
+This part, [LLM_scripts_for_generating_soundscape_caption](LLM_scripts_for_generating_soundscape_caption), loads the acoustic scene, audio events, and PAQ 8-dimensional affective response values corresponding to the soundscape audio clip predicted by SoundAQnet, and then outputs the corresponding soundscape descriptions. <br> Please fill in your OpenAI username and password in [LLM_GPT_soundscape_caption.py](LLM_scripts_for_generating_soundscape_caption/LLM_GPT_soundscape_caption.py).
+
+1\) Data preparation
+
+- Place the matrix file of audio event probabilities predicted by the SoundAQnet into the `SoundAQnet_event_probability` directory
+
+- Place the SoundAQnet prediction file, including the predicted acoustic scene label, ISOP value, ISOE value, and the PAQ 8D AR values, into the `SoundAQnet_scene_ISOPl_ISOEv_PAQ8DARs` directory
+
+2\) Generate soundscape caption
+
+- Replace the "YOUR_API_KEY_HERE" in line 26 of the `LLM_GPT_soundscape_caption.py` file with your OpenAI API key
+
+- Run `LLM_GPT_soundscape_caption.py`
+
+3\) Demonstration
+
+Please see details [here](LLM_scripts_for_generating_soundscape_caption#3-demonstration).
+
+-------------
+
+
+
+
+
+
+
+
+
 
 ### 3. Expert evaluation of soundscape caption quality
 
