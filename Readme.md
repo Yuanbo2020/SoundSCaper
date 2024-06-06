@@ -90,12 +90,13 @@ This part bridges the acoustic model and the language model, organising the outp
 
 This part [Inferring_soundscape_clips_for_LLM](Inferring_soundscape_clips_for_LLM) uses SoundAQnet to infer the values of audio events, acoustic scenes, and emotion-related PAQ ARs. 
 
-If you want to replace SoundAQnet with another model and generate the soundscape captions corresponding to that model, 
+If you want to replace SoundAQnet with another model to generate the soundscape captions, 
 - replace `using_model = SoundAQnet` in `Inference_for_LLM.py` with the code for that model, 
 - and place the corresponding trained model into the `system/model` directory.
 
 4\) Demonstration
-Please see details [here](Inferring_soundscape_clips_for_LLM).
+
+Please see details [here](Inferring_soundscape_clips_for_LLM#4-demonstration).
 
 -------------
 
