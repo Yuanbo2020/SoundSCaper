@@ -29,7 +29,7 @@ Paper link:
 
 ## Introduction
 
-### 1. SounAQnet training steps
+### 1. SounAQnet training steps (Optional)
 
 1\) Dataset preparation
 
@@ -62,6 +62,44 @@ Use the code in [Feature_log_mel](Feature_log_mel) to extract log mel features.
 - Run `Training.py` in the `application` directory
 
 -------------
+
+### 2. Use SoundAQnet to infer soundscape audio clips for LLMs
+
+This part [Inferring_soundscape_clips_for_LLM](Inferring_soundscape_clips_for_LLM) aims to convert the soundscape audio clips into the predicted audio event probabilities, the acoustic scene labels, and the ISOP, ISOE, and emotion-related PAQ values.
+
+This part bridges the acoustic model and the language model, organising the output of the acoustic model in preparation for the input of the language model.
+
+1\) Data preparation
+
+- Place the log Mel features files from the `Feature_log_mel` directory into the `Dataset_mel` directory
+
+- Place the ISO 532-1 loudness feature files from the `Feature_loudness_ISO532_1` directory into the `Dataset_wav_loudness` directory
+
+
+2\) Run the inference script
+
+- cd `application`, python `Inference_for_LLM.py`
+
+- The results, which will be fed into the LLM, will be automatically saved into the corresponding directories: `SoundAQnet_event_probability`, `SoundAQnet_scene_ISOPl_ISOEv_PAQ8DARs`
+
+- There are two similar SoundAQnet models in the `system/model` directory; please feel free to use them
+	- SoundAQnet_PAQ1054.pth
+	- SoundAQnet_PAQ1075.pth
+
+3\) Inference with other models
+
+This part [Inferring_soundscape_clips_for_LLM](Inferring_soundscape_clips_for_LLM) uses SoundAQnet to infer the values of audio events, acoustic scenes, and emotion-related PAQ ARs. 
+
+If you want to replace SoundAQnet with another model and generate the soundscape captions corresponding to that model, 
+- replace `using_model = SoundAQnet` in `Inference_for_LLM.py` with the code for that model, 
+- and place the corresponding trained model into the `system/model` directory.
+
+4\) Demonstration
+Please see details [here](Inferring_soundscape_clips_for_LLM).
+
+-------------
+
+
 
 ### 2. Generate soundscape captions using generic LLM
 
