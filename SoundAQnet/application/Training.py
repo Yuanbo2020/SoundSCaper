@@ -18,7 +18,7 @@ def main(argv):
     system_path = os.path.join(os.getcwd(), sys_name)
     models_dir = os.path.join(system_path, 'model')
 
-    using_model = SoundEQnet
+    using_model = SoundAQnet
 
     model = using_model(
         max_node_num=number_of_nodes,

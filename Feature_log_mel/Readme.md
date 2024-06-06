@@ -6,7 +6,7 @@ Demo:
 ```python 
 python log_mel_spectrogram.py
 -----------------------------------------------------------------------------------------------------------
-0 fold_0_participant_10001_stimulus_02.npy (3001, 64)
+0 fold_1_participant_00056_stimulus_13.npy (3001, 64)
 ```
 
 

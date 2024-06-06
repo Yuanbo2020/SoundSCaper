@@ -72,7 +72,9 @@ Please fill in your OpenAI username and password in LLM_scripts.
   
 The trained models of the other 7 models in the paper have been attached to their respective folders. 
 
-If you want to train them yourself, please follow the SoundSCaper training steps.
+- If you want to train them yourself, please follow the SounAQnet training steps.
+
+- If you want to test or evaluate these models, please run the model inference [here](#run-models).
 
 <br>
 

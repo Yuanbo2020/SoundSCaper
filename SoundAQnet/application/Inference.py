@@ -28,7 +28,7 @@ def main(argv):
     number_of_nodes = 8
     monitor = 'ISOPls'
 
-    using_model = SoundEQnet
+    using_model = SoundAQnet
 
     model = using_model(
         max_node_num=number_of_nodes,

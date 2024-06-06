@@ -25,7 +25,7 @@ The source code used to build the *ISO_532-1.exe* can be found on the same link.
 ```python 
 python ISO_loudness.py
 -----------------------------------------------------------------------------------------------------------
-Processing the audio clip: fold_0_participant_10001_stimulus_02
+Processing the audio clip: fold_1_participant_00056_stimulus_13
  |- running ISO_532-1 loudness calculation
  |- getting loudness features
  |- saving loudness features

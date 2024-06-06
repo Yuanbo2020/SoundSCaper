@@ -141,7 +141,7 @@ class ConvBlock_dilation(nn.Module):
 
 
 
-class SoundEQnet(nn.Module):
+class SoundAQnet(nn.Module):
     def __init__(self, max_node_num, node_emb_dim = 256,
         hidden_dim = 32,
         out_dim = 64,
@@ -149,7 +149,7 @@ class SoundEQnet(nn.Module):
                  event_class=len(config.event_labels),
                  scene_class=len(config.scene_labels), each_emotion_class=config.each_emotion_class_num, batchnormal=True):
 
-        super(SoundEQnet, self).__init__()
+        super(SoundAQnet, self).__init__()
 
         self.batchnormal = batchnormal
         if batchnormal:
