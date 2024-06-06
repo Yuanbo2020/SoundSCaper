@@ -1,0 +1,2520 @@
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Bird	Outside, rural or natural	Environment and background	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Silence	Environment and background	Noise
+Human sounds	Water	Natural sounds	Bird	Speech	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Sounds of things	Vehicle	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Silence	Environment and background	Noise
+Sounds of things	Vehicle	Bird	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Silence	Human sounds	Environment and background	Speech	Noise
+Silence	Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Animal
+Environment and background	Noise
+Human sounds	Environment and background	Speech	Noise
+Silence	Water	Natural sounds
+Silence	Environment and background	Noise
+Silence	Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Music	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Music	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Environment and background	Speech	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Silence	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Water	Natural sounds
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech	Music
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Water	Natural sounds	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Speech	Music
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Animal
+Environment and background	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Silence	Environment and background	Noise
+Water	Natural sounds	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Speech	Music	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Speech	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Silence	Environment and background	Noise
+Silence	Environment and background	Noise
+Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Animal
+Sounds of things	Vehicle	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Environment and background	Speech	Music	Noise	Animal
+Silence	Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Speech	Music	Noise	Animal
+Bird	Music	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech	Animal
+Water	Natural sounds	Environment and background	Music	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle
+Animal
+Sounds of things	Vehicle	Bird	Environment and background	Music	Noise	Animal
+Water	Natural sounds	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Environment and background	Speech	Noise	Animal
+Silence	Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Bird	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Silence	Bird	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Traffic	Sounds of things	Vehicle
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Silence	Environment and background	Noise
+Human sounds	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Environment and background	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Silence	Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Silence	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Silence	Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Bird	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Water	Natural sounds	Environment and background	Noise
+Bird	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Music
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Environment and background	Speech	Noise
+Water	Natural sounds	Environment and background	Noise
+Silence	Human sounds	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Water	Natural sounds	Environment and background	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Water	Natural sounds	Bird	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech	Animal
+Environment and background	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech
+Water	Natural sounds	Traffic	Sounds of things
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Speech	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Wind	Water	Natural sounds	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Water	Natural sounds	Bird	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Water	Natural sounds	Sounds of things	Vehicle
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Bird	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Traffic	Sounds of things	Environment and background	Noise
+Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Silence	Bird	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds	Traffic	Sounds of things
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Environment and background	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Speech	Music
+Human sounds	Wind	Natural sounds	Environment and background	Speech	Music	Noise
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Water	Natural sounds	Traffic	Sounds of things	Bird	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Speech	Noise	Animal
+Silence	Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Environment and background	Noise
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Silence	Bird	Environment and background	Noise	Animal
+Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Water	Natural sounds	Bird	Environment and background	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Silence	Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Traffic	Sounds of things	Vehicle
+Human sounds	Speech	Music
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Silence	Human sounds	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Environment and background	Music	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Water	Natural sounds	Music
+Human sounds	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Environment and background	Speech	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech
+Bird	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Environment and background	Music	Noise
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Water	Natural sounds
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Silence	Human sounds	Environment and background	Speech	Noise
+Wind	Water	Natural sounds	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Speech	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Speech	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Traffic	Sounds of things	Vehicle
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Environment and background	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Water	Natural sounds
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Environment and background	Noise	Animal
+Human sounds	Speech	Music
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Environment and background	Speech	Noise
+Environment and background	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Traffic	Sounds of things
+Human sounds	Water	Natural sounds	Speech
+Water	Natural sounds	Bird	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Silence	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Silence	Environment and background	Noise
+Silence	Human sounds	Water	Natural sounds	Speech
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech	Music
+Water	Natural sounds
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Speech	Music
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Environment and background	Speech	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Wind	Water	Natural sounds	Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Silence	Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Silence	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Traffic	Sounds of things	Vehicle	Music	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Bird	Animal
+Human sounds	Environment and background	Speech	Music	Noise
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds
+Silence	Environment and background	Noise
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Silence	Environment and background	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Sounds of things	Vehicle	Bird	Music	Animal
+Silence	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Water	Natural sounds	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Music	Noise	Animal
+Human sounds	Environment and background	Speech	Noise
+Bird	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Silence	Environment and background	Noise
+Bird	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Animal
+Human sounds	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Bird	Speech	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Silence	Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Silence	Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Water	Natural sounds	Environment and background	Noise
+Water	Natural sounds	Outside, rural or natural	Environment and background	Noise	Animal
+Bird	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Wind	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech
+
+Water	Natural sounds
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds
+Silence	Environment and background	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise	Animal
+Water	Natural sounds
+Water	Natural sounds	Bird	Environment and background	Noise	Animal
+Human sounds	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise	Animal
+Water	Natural sounds
+Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Water	Natural sounds	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Environment and background	Music	Noise
+Environment and background	Noise	Animal
+Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Speech	Music	Animal
+Water	Natural sounds	Animal
+Water	Natural sounds	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Traffic	Sounds of things	Vehicle
+Silence	Water	Natural sounds	Sounds of things	Vehicle
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech	Animal
+Sounds of things	Vehicle	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Bird	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Sounds of things	Vehicle	Bird	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Water	Natural sounds	Environment and background	Music	Noise
+Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Traffic	Sounds of things
+Silence	Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Speech	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Music	Noise	Animal
+Silence	Human sounds	Speech
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Music	Noise	Animal
+Human sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Bird	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Speech	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle
+Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Water	Natural sounds
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Environment and background	Speech	Music	Noise
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Silence	Environment and background	Noise
+Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Animal
+
+Human sounds	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Speech	Animal
+Human sounds	Speech
+Silence	Human sounds	Environment and background	Speech	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Silence	Water	Natural sounds	Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Natural sounds	Sounds of things	Vehicle	Speech	Music
+Water	Natural sounds	Traffic	Sounds of things
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Environment and background	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Wind	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Silence	Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Music
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Bird	Animal
+Human sounds	Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Bird	Environment and background	Music	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Silence	Human sounds	Speech
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Bird	Animal
+Water	Natural sounds	Sounds of things	Vehicle
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Water	Natural sounds
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Environment and background	Speech	Music	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Environment and background	Speech	Noise
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Bird	Environment and background	Noise	Animal
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Bird	Environment and background	Music	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech
+Sounds of things	Vehicle	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Sounds of things	Vehicle	Music
+Human sounds	Environment and background	Speech	Music	Noise	Animal
+Silence	Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Environment and background	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Bird	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Environment and background	Speech	Noise	Animal
+Silence	Human sounds	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech	Music
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Speech	Music	Animal
+Environment and background	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Wind	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Silence	Human sounds	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Bird	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Bird	Environment and background	Noise	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Music
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Music
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds	Traffic	Sounds of things	Bird	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Water	Natural sounds	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Silence	Human sounds	Environment and background	Speech	Noise
+Silence	Environment and background	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Environment and background	Speech	Noise
+Human sounds	Environment and background	Speech	Music	Noise	Animal
+Sounds of things	Vehicle	Bird	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Water	Natural sounds	Environment and background	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Wind	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Sounds of things	Vehicle	Music
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech
+Human sounds	Bird	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Bird	Speech	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Water	Natural sounds
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Outside, rural or natural	Environment and background	Speech	Music	Noise
+Human sounds	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Silence	Water	Natural sounds	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Environment and background	Noise	Animal
+Water	Natural sounds
+Human sounds	Water	Natural sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Water	Natural sounds
+Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Bird	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech	Music
+Water	Natural sounds	Environment and background	Noise
+Environment and background	Noise
+Silence	Wind	Water	Natural sounds	Traffic	Sounds of things
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Water	Natural sounds
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Bird	Outside, rural or natural	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Water	Natural sounds	Speech	Music	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Environment and background	Noise
+Water	Natural sounds
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Bird	Environment and background	Noise	Animal
+Sounds of things	Vehicle	Music	Animal
+Water	Natural sounds	Traffic	Sounds of things
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Bird	Environment and background	Noise	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Speech	Music	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Speech
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Environment and background	Music	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Water	Natural sounds	Sounds of things	Vehicle
+Water	Natural sounds	Bird	Environment and background	Noise	Animal
+Bird	Outside, rural or natural	Environment and background	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Silence	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Environment and background	Noise
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Silence	Human sounds	Environment and background	Speech	Noise
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Speech	Music
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Sounds of things	Vehicle	Outside, rural or natural	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech	Music
+Water	Natural sounds	Bird	Environment and background	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Silence	Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Bird	Environment and background	Noise	Animal
+Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Environment and background	Speech	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Water	Natural sounds	Environment and background	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Bird	Speech	Animal
+Sounds of things	Vehicle
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Water	Natural sounds
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Bird	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Water	Natural sounds	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Noise	Animal
+Water	Natural sounds	Bird	Music	Animal
+Silence	Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Silence	Human sounds	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Silence	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Bird	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Animal
+Water	Natural sounds	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Environment and background	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Silence	Environment and background	Noise
+Water	Natural sounds	Sounds of things	Vehicle
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds	Sounds of things	Vehicle
+Silence	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Water	Natural sounds	Speech
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Speech	Music	Animal
+Water	Natural sounds	Traffic	Sounds of things
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Animal
+Environment and background	Noise
+Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Wind	Water	Natural sounds	Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Bird	Environment and background	Music	Noise	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Bird	Animal
+Human sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Silence	Environment and background	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Environment and background	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Environment and background	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Silence	Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Silence	Water	Natural sounds	Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Silence	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Music
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Wind	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Water	Natural sounds	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Music
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Silence	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Noise	Animal
+Environment and background	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Bird	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech
+Water	Natural sounds	Music
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Traffic	Sounds of things	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Silence	Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Environment and background	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech	Music
+Environment and background	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech	Music
+Silence	Human sounds	Environment and background	Speech	Noise
+Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Music	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Speech	Animal
+Silence	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Natural sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Animal
+Silence	Bird	Animal
+Silence	Water	Natural sounds
+Silence	Environment and background	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Bird	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Wind	Water	Natural sounds	Environment and background	Noise
+Water	Natural sounds	Traffic	Sounds of things	Vehicle
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Speech
+Human sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Speech	Music
+Environment and background	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Speech	Noise	Animal
+Traffic	Sounds of things	Music
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Bird	Outside, rural or natural	Environment and background	Animal
+Water	Natural sounds
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Environment and background	Noise
+Bird	Outside, rural or natural	Environment and background	Animal
+Silence
+Human sounds	Traffic	Sounds of things	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Bird	Environment and background	Noise	Animal
+Human sounds	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Sounds of things	Vehicle	Bird	Environment and background	Music	Noise	Animal
+Water	Natural sounds	Bird	Music	Animal
+Bird	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Speech
+Silence	Human sounds	Environment and background	Speech	Noise
+Sounds of things	Vehicle	Music
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Speech
+Bird	Environment and background	Noise	Animal
+Wind	Water	Natural sounds	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Wind	Water	Natural sounds	Environment and background	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Silence
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Water	Natural sounds	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Silence	Water	Natural sounds	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Water	Natural sounds	Traffic	Sounds of things
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Bird	Environment and background	Speech	Noise	Animal
+Silence	Sounds of things	Vehicle	Environment and background	Music	Noise
+Bird	Environment and background	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Silence	Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Environment and background	Noise
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Silence	Bird	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Silence	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Speech
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Environment and background	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Water	Natural sounds
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Silence	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Sounds of things	Vehicle	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Silence	Environment and background	Noise	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Wind	Natural sounds	Sounds of things	Vehicle	Speech	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Bird	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Sounds of things	Vehicle	Bird	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Sounds of things	Vehicle	Bird	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Sounds of things	Vehicle	Music
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Water	Natural sounds	Environment and background	Noise
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Speech	Music
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Silence	Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things
+Sounds of things	Vehicle	Bird	Environment and background	Music	Noise	Animal
+Silence	Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Bird	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Silence	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Environment and background	Speech	Music	Noise
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Water	Natural sounds	Environment and background	Noise
+Traffic	Sounds of things	Vehicle	Music
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Speech
+Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Silence	Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle
+Sounds of things	Vehicle	Bird	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Environment and background	Noise
+Human sounds	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Wind	Natural sounds	Bird	Environment and background	Noise	Animal
+Environment and background	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Human sounds	Environment and background	Speech	Noise	Animal
+Water	Natural sounds
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Environment and background	Speech	Noise
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Traffic	Sounds of things	Vehicle	Bird	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Bird	Animal
+Water	Natural sounds	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Water	Natural sounds
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Animal
+Bird	Outside, rural or natural	Environment and background	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Music
+Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Environment and background	Speech	Music	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Human sounds	Bird	Speech	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+
+Environment and background	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Silence	Environment and background	Noise
+Silence	Human sounds	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Silence	Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Silence	Human sounds	Environment and background	Speech	Noise
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Traffic	Sounds of things	Vehicle
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Silence	Bird	Environment and background	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Animal
+Silence
+Silence	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Environment and background	Noise
+Sounds of things	Vehicle	Environment and background	Noise	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Environment and background	Noise	Animal
+Bird	Music	Animal
+Silence	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Speech	Music
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Bird	Outside, rural or natural	Environment and background	Noise	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Bird	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Water	Natural sounds
+Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Music
+Bird	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech
+Human sounds	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Bird	Speech	Music	Animal
+Water	Natural sounds	Traffic	Sounds of things
+Human sounds	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Silence	Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Water	Natural sounds
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Silence	Bird	Environment and background	Music	Noise	Animal
+Human sounds	Environment and background	Speech	Music	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Water	Natural sounds	Bird	Animal
+Human sounds	Environment and background	Speech	Noise
+Human sounds	Speech	Music
+Water	Natural sounds
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Water	Natural sounds	Animal
+Human sounds	Traffic	Sounds of things	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Silence	Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Environment and background	Music	Noise
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Music	Animal
+Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Silence	Environment and background	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Traffic	Sounds of things
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Sounds of things	Vehicle	Speech	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Animal
+Silence	Environment and background	Noise
+Silence	Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Environment and background	Noise	Animal
+Sounds of things	Vehicle	Bird	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Animal
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Sounds of things	Vehicle	Animal
+Human sounds	Environment and background	Speech	Music	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Water	Natural sounds
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Silence	Water	Natural sounds	Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Environment and background	Noise	Animal
+Water	Natural sounds	Environment and background	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Water	Natural sounds
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Speech	Music
+Water	Natural sounds	Bird	Environment and background	Music	Noise	Animal
+Sounds of things	Vehicle	Bird	Music	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Sounds of things	Vehicle	Music	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Environment and background	Noise	Animal
+Water	Natural sounds	Environment and background	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Environment and background	Music	Noise
+Human sounds	Water	Natural sounds	Speech	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Water	Natural sounds	Traffic	Sounds of things	Music
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Silence	Environment and background	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Water	Natural sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Silence	Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech
+Sounds of things	Vehicle	Environment and background	Noise	Animal
+Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Environment and background	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Music
+Human sounds	Speech	Music
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Water	Natural sounds	Music
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Music	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Bird	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Silence	Water	Natural sounds
+Traffic	Sounds of things	Vehicle
+Human sounds	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Sounds of things	Vehicle
+Human sounds	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Water	Natural sounds	Speech	Music	Animal
+Human sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Animal
+Water	Natural sounds	Traffic	Sounds of things	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Bird	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Environment and background	Speech	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Bird	Speech	Music	Animal
+Environment and background	Music	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Environment and background	Speech	Noise
+Human sounds	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Silence	Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Environment and background	Noise	Animal
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Silence	Water	Natural sounds	Environment and background	Noise
+Water	Natural sounds	Bird	Environment and background	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Bird	Speech	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Environment and background	Noise
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Silence	Water	Natural sounds	Sounds of things	Vehicle
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Speech
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Sounds of things	Vehicle	Speech
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Bird	Speech	Animal
+Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech
+Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Water	Natural sounds
+Silence	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Sounds of things	Vehicle	Bird	Music	Animal
+Water	Natural sounds
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Bird	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Natural sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Speech	Music
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Environment and background	Speech	Music	Noise
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Silence	Human sounds	Environment and background	Speech	Noise
+Human sounds	Environment and background	Speech	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Silence	Sounds of things	Vehicle	Environment and background	Noise
+Sounds of things	Vehicle	Environment and background	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Noise	Animal
+Water	Natural sounds	Animal
+Bird	Music	Animal
+Sounds of things	Vehicle	Environment and background	Noise
+Traffic	Sounds of things	Environment and background	Noise
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Silence	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Silence	Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Animal
+Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Water	Natural sounds
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Bird	Outside, rural or natural	Environment and background	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Bird	Music	Animal
+Water	Natural sounds	Bird	Outside, rural or natural	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Speech	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Wind	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Environment and background	Noise
+Human sounds	Bird	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Speech	Noise	Animal
+Silence	Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Bird	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Water	Natural sounds
+Traffic	Sounds of things	Vehicle	Environment and background	Music	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Silence	Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Traffic	Sounds of things	Vehicle	Music
+Water	Natural sounds
+Silence	Traffic	Sounds of things	Environment and background	Noise
+Human sounds	Bird	Speech	Music	Animal
+Sounds of things	Vehicle	Music
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Sounds of things	Vehicle	Music	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Speech	Music
+Animal
+Water	Natural sounds	Music
+Bird	Animal
+Water	Natural sounds	Environment and background	Noise	Animal
+Sounds of things	Vehicle	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Water	Natural sounds	Traffic	Sounds of things	Bird	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Environment and background	Noise
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Water	Natural sounds	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Music
+Sounds of things	Vehicle	Animal
+Human sounds	Environment and background	Speech	Music	Noise
+Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Bird	Outside, rural or natural	Environment and background	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Water	Natural sounds
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Noise	Animal
+Bird	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Environment and background	Noise
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Sounds of things	Vehicle	Environment and background	Music	Noise
+Water	Natural sounds	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Water	Natural sounds	Environment and background	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Bird	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Silence	Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Environment and background	Noise
+Water	Natural sounds
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Sounds of things	Vehicle	Bird	Environment and background	Music	Noise	Animal
+Water	Natural sounds	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Wind	Natural sounds	Sounds of things	Vehicle	Speech	Music
+Water	Natural sounds	Bird	Environment and background	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Water	Natural sounds
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Wind	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Speech	Music
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Wind	Water	Natural sounds	Environment and background	Music	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Traffic	Sounds of things	Vehicle
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Silence	Human sounds	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Bird	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Environment and background	Speech	Noise
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Environment and background	Noise
+Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Speech	Noise
+Water	Natural sounds	Traffic	Sounds of things
+Human sounds	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Bird	Speech	Music	Animal
+Environment and background	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Bird	Environment and background	Noise	Animal
+Bird	Environment and background	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Water	Natural sounds	Bird	Environment and background	Speech	Noise	Animal
+Music
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Bird	Animal
+Sounds of things	Vehicle	Bird	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music
+Water	Natural sounds	Traffic	Sounds of things
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Bird	Environment and background	Noise	Animal
+Silence	Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Bird	Speech	Animal
+Human sounds	Wind	Natural sounds	Bird	Outside, rural or natural	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Water	Natural sounds	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Speech	Animal
+Water	Natural sounds
+Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Speech	Music
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Silence	Human sounds	Water	Natural sounds	Environment and background	Speech	Noise
+Silence	Water	Natural sounds	Environment and background	Noise
+Silence	Environment and background	Noise
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise	Animal
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Wind	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Bird	Outside, rural or natural	Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Speech	Music	Animal
+Silence	Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Wind	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Noise
+Water	Natural sounds	Music
+Bird	Environment and background	Noise	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Human sounds	Wind	Natural sounds	Sounds of things	Vehicle	Speech	Music
+Human sounds	Water	Natural sounds	Speech
+Water	Natural sounds	Bird	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Environment and background	Noise
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Environment and background	Speech	Noise
+Human sounds	Bird	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Human sounds	Sounds of things	Vehicle	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise
+Human sounds	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Environment and background	Speech	Music	Noise
+Sounds of things	Vehicle	Music
+Human sounds	Sounds of things	Vehicle	Speech	Music
+Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Speech
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Silence	Environment and background	Noise
+Sounds of things	Vehicle	Bird	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Outside, rural or natural	Environment and background	Speech	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Environment and background	Speech	Noise	Animal
+Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Environment and background	Noise
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Environment and background	Speech	Noise	Animal
+Human sounds	Water	Natural sounds	Sounds of things	Vehicle	Environment and background	Speech	Noise
+Silence	Human sounds	Environment and background	Speech	Noise
+Human sounds	Bird	Speech	Music	Animal
+Human sounds	Bird	Outside, rural or natural	Environment and background	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Speech	Music	Animal
+Human sounds	Traffic	Sounds of things	Vehicle	Environment and background	Speech	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Environment and background	Speech	Music	Noise	Animal
+Human sounds	Wind	Water	Natural sounds	Traffic	Sounds of things	Vehicle	Bird	Speech	Music	Animal
+Environment and background	Noise	Animal
+Human sounds	Sounds of things	Vehicle	Bird	Speech	Animal
+Traffic	Sounds of things	Vehicle	Bird	Environment and background	Noise	Animal

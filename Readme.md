@@ -29,7 +29,7 @@ Paper link:
 
 ## Introduction
 
-### 1. SoundSCaper training steps
+### 1. SounAQnet training steps
 
 1\) Download and prepare the dataset in [Dataset_ARAUS](Dataset_ARAUS); ARAUS can be downloaded [ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main). <br> The labels of our annotated acoustic scenes and audio events are in [Dataset_ARAUS](Dataset_ARAUS).
 
@@ -37,10 +37,12 @@ Paper link:
 2\) Use the code in [Feature_log_mel](Feature_log_mel) to extract log mel acoustic features. <br> Use the code in [Feature_loudness_ISO532_1](Feature_loudness_ISO532_1) to extract the ISO 532-1:2017 standard loudness features.
 
 3\) Use the code in [SoundAQnet](SoundAQnet) to train SoundAQnet.
-  
+
+### 2. Generate soundscape captions using generic LLM
+
 4\) In [LLM_scripts](LLM_scripts), read the audio scene, audio events, and PAQ 8-dimensional affective response corresponding to the test audio predicted by the trained SoundAQnet, and then output the corresponding soundscape descriptions. <br> Please fill in your OpenAI username and password in [LLM_scripts](LLM_scripts).
 
-### 2. Expert evaluation of soundscape caption quality
+### 3. Expert evaluation of soundscape caption quality
 
 [Human_assessment](Human_assessment) contains 
 
