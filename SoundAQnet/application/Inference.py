@@ -82,14 +82,14 @@ def main(argv):
 
     # print('ASC\tAcc: ', "%.2f"%(scene_acc*100), '%')
     # print(f'AEC\tAUC: {"%.2f"%(event_auc)}')
-    # print(f'PAQ_8D_AR\tMEAN MSE: {"%.3f"%(PAQ8_mean)}')
+    # print(f'PAQ_8D_AQ\tMEAN MSE: {"%.3f"%(PAQ8_mean)}')
 
     params_num = count_parameters(model)
     print('Parameters num: {} M'.format(params_num / 1000 ** 2))
 
     print('ASC\tAcc: ', "%.2f" % (scene_acc * 100), '%')
     print('AEC\tAUC: ', "%.2f" % (event_auc))
-    print(f'PAQ_8D_AR\tMSE MEAN: {"%.3f" % (PAQ8_mean)}')
+    print(f'PAQ_8D_AQ\tMSE MEAN: {"%.3f" % (PAQ8_mean)}')
 
     print('pleasant_mse: %.3f' % float(pleasant_mse), 'eventful_mse: %.3f' % float(eventful_mse),
           'chaotic_mse: %.3f' % float(chaotic_mse), 'vibrant_mse: %.3f' % float(vibrant_mse))

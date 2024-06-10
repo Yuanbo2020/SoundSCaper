@@ -13,10 +13,10 @@ Paper link:
     + [4. Other models](#4-other-models)
   * [Figure](#figure)
     + [1. Overall framework of the automatic soundscape captioner (SoundSCaper)](#1-overall-framework-of-the-automatic-soundscape-captioner-soundscaper)
-    + [2. The acoustic model SoundAQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective response (AR)](#2-the-acoustic-model-soundaqnet-simultaneously-models-acoustic-scene-as-audio-event-ae-and-emotion-related-affective-response-ar)
+    + [2. The acoustic model SoundAQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective quality (AQ)](#2-the-acoustic-model-soundaqnet-simultaneously-models-acoustic-scene-as-audio-event-ae-and-emotion-related-affective-quality-aq)
     + [3. Process of the LLM part in the SoundSCaper](#3-process-of-the-llm-part-in-the-soundscaper)
-	+ [4. Spearman's rho correlation between different ARs and AEs predicted by SoundAQnet](#4-spearmans-rho-correlation-r-between-different-ars-and-aes-predicted-by-soundaqnet)
-	+ [5. Spearman's rho correlation between different AEs and 8D ARs predicted by SoundAQnet](#5-spearmans-rho-correlation-r-between-different-aes-and-8d-ars-predicted-by-soundaqnet)
+	+ [4. Spearman's rho correlation between different AQs and AEs predicted by SoundAQnet](#4-spearmans-rho-correlation-r-between-different-ars-and-aes-predicted-by-soundaqnet)
+	+ [5. Spearman's rho correlation between different AEs and 8D AQs predicted by SoundAQnet](#5-spearmans-rho-correlation-r-between-different-aes-and-8d-aqs-predicted-by-soundaqnet)
   * [Run Sound-AQ models to predict the acoustic scene, audio event, and human-perceived affective responses](#run-sound-aq-models-to-predict-the-acoustic-scene-audio-event-and-human-perceived-affective-responses)
     + [1. AD_CNN](#1-ad_cnn)
     + [2. Baseline CNN](#2-baseline-cnn)
@@ -82,7 +82,7 @@ This part bridges the acoustic model and the language model, organising the outp
 
 - cd `application`, python `Inference_for_LLM.py`
 
-- The results, which will be fed into the LLM, will be automatically saved into the corresponding directories: `SoundAQnet_event_probability`, `SoundAQnet_scene_ISOPl_ISOEv_PAQ8DARs`
+- The results, which will be fed into the LLM, will be automatically saved into the corresponding directories: `SoundAQnet_event_probability`, `SoundAQnet_scene_ISOPl_ISOEv_PAQ8DAQs`
 
 - There are two similar SoundAQnet models in the `system/model` directory; please feel free to use them
 	- SoundAQnet_PAQ1054.pth
@@ -90,7 +90,7 @@ This part bridges the acoustic model and the language model, organising the outp
 
 3\) Inference with other models
 
-This part [Inferring_soundscape_clips_for_LLM](Inferring_soundscape_clips_for_LLM) uses SoundAQnet to infer the values of audio events, acoustic scenes, and emotion-related PAQ ARs. 
+This part [Inferring_soundscape_clips_for_LLM](Inferring_soundscape_clips_for_LLM) uses SoundAQnet to infer the values of audio events, acoustic scenes, and emotion-related AQs. 
 
 If you want to replace SoundAQnet with another model to generate the soundscape captions, 
 - replace `using_model = SoundAQnet` in `Inference_for_LLM.py` with the code for that model, 
@@ -111,7 +111,7 @@ This part, [LLM_scripts_for_generating_soundscape_caption](LLM_scripts_for_gener
 
 - Place the matrix file of audio event probabilities predicted by the SoundAQnet into the `SoundAQnet_event_probability` directory
 
-- Place the SoundAQnet prediction file, including the predicted acoustic scene label, ISOP value, ISOE value, and the PAQ 8D AR values, into the `SoundAQnet_scene_ISOPl_ISOEv_PAQ8DARs` directory
+- Place the SoundAQnet prediction file, including the predicted acoustic scene label, ISOP value, ISOE value, and the 8D AQ values, into the `SoundAQnet_scene_ISOPl_ISOEv_PAQ8DAQs` directory
 
 2\) Generate soundscape caption
 
@@ -181,7 +181,7 @@ The trained models of the other 7 models in the paper have been attached to thei
 
 -------------
 
-### 2. The acoustic model SoundAQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective response (AR)
+### 2. The acoustic model SoundAQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective quality (AQ)
 
 <h3 align="center"> <p></p></h3>
 <div align="center">
@@ -200,18 +200,18 @@ For full prompts and the LLM script, please see [here](LLM_scripts/SoundSCaper_L
 
 -------------
 
-### 4. Spearman's rho correlation ($r$) between different ARs and AEs predicted by SoundAQnet
+### 4. Spearman's rho correlation ($r$) between different AQs and AEs predicted by SoundAQnet
 <h3 align="center"> <p></p></h3>
 <div align="center">
 <img src="Figure/fig_PAQ2_event15.png" width=100%/> 
 </div> 
 
 
-For all 8D AR results, please see [here](Figure/PAQ8ARs.png).
+For all 8D AQ results, please see [here](Figure/PAQ8AQs.png).
 
 -------------
 
-### 5. Spearman's rho correlation ($r$) between different AEs and 8D ARs predicted by SoundAQnet
+### 5. Spearman's rho correlation ($r$) between different AEs and 8D AQs predicted by SoundAQnet
 <h3 align="center"> <p></p></h3>
 <div align="center">
 <img src="Figure/fig_event2_PAQ8.png" width=100%/> 
@@ -239,7 +239,7 @@ Number of 3576 audios in testing
 Parameters num: 0.521472 M
 ASC	Acc:  89.42 %
 AEC	AUC:  0.85
-PAQ_8D_AR	MSE MEAN: 1.125
+PAQ_8D_AQ	MSE MEAN: 1.125
 pleasant_mse: 0.976 eventful_mse: 1.097 chaotic_mse: 1.106 vibrant_mse: 1.061
 uneventful_mse: 1.246 calm_mse: 1.059 annoying_mse: 1.198 monotonous_mse: 1.259
 ``` 
@@ -253,7 +253,7 @@ python inference.py
 Parameters num: 1.0099 M
 ASC	Acc:  86.96 %
 AEC	AUC:  0.92
-PAQ_8D_AR	MSE MEAN: 1.301
+PAQ_8D_AQ	MSE MEAN: 1.301
 pleasant_mse: 0.991 eventful_mse: 1.445 chaotic_mse: 1.330 vibrant_mse: 1.466
 uneventful_mse: 1.378 calm_mse: 1.079 annoying_mse: 1.261 monotonous_mse: 1.457
 ``` 
@@ -267,7 +267,7 @@ python inference.py
 Parameters num: 1.009633 M
 ASC	Acc:  90.77 %
 AEC	AUC:  0.89
-PAQ_8D_AR	MSE MEAN: 1.194
+PAQ_8D_AQ	MSE MEAN: 1.194
 pleasant_mse: 1.071 eventful_mse: 1.295 chaotic_mse: 1.123 vibrant_mse: 1.049
 uneventful_mse: 1.286 calm_mse: 1.087 annoying_mse: 1.327 monotonous_mse: 1.313
 ``` 
@@ -281,7 +281,7 @@ python inference.py
 Parameters num: 2.259164 M
 ASC	Acc:  89.89 %
 AEC	AUC:  0.92
-PAQ_8D_AR	MSE MEAN: 1.140
+PAQ_8D_AQ	MSE MEAN: 1.140
 pleasant_mse: 0.951 eventful_mse: 1.147 chaotic_mse: 1.164 vibrant_mse: 0.986
 uneventful_mse: 1.338 calm_mse: 1.120 annoying_mse: 1.173 monotonous_mse: 1.241
 ``` 
@@ -295,7 +295,7 @@ python inference.py
 Parameters num: 3.2351 M
 ASC	Acc:  88.46 %
 AEC	AUC:  0.91
-PAQ_8D_AR	MSE MEAN: 1.205
+PAQ_8D_AQ	MSE MEAN: 1.205
 pleasant_mse: 1.028 eventful_mse: 1.228 chaotic_mse: 1.230 vibrant_mse: 1.058
 uneventful_mse: 1.388 calm_mse: 1.170 annoying_mse: 1.262 monotonous_mse: 1.275
 ``` 
@@ -309,14 +309,14 @@ python inference.py
 Parameters num: 12.293996 M
 ASC	Acc:  92.74 %
 AEC	AUC:  0.93
-PAQ_8D_AR	MSE MEAN: 1.334
+PAQ_8D_AQ	MSE MEAN: 1.334
 pleasant_mse: 1.097 eventful_mse: 1.389 chaotic_mse: 1.328 vibrant_mse: 1.285
 uneventful_mse: 1.510 calm_mse: 1.239 annoying_mse: 1.360 monotonous_mse: 1.466
 ``` 
 
 ### 7. PANNs
 
-* Please download the trained model [PANNs_AS_AE_AR](https://drive.google.com/file/d/11oIX8cAmqi4a55r8fnj6nMjOA1p-OHHw/view?usp=sharing) ~304MB 
+* Please download the trained model [PANNs_AS_AE_AQ](https://drive.google.com/file/d/11oIX8cAmqi4a55r8fnj6nMjOA1p-OHHw/view?usp=sharing) ~304MB 
 * unzip it 
 * put the model `final_model.pth` under the `Other_PANNs\application\system\model` 
 
@@ -327,7 +327,7 @@ python inference.py
 Parameters num: 79.731036 M
 ASC	Acc:  93.13 %
 AEC	AUC:  0.91
-PAQ_8D_AR	MSE MEAN: 1.165
+PAQ_8D_AQ	MSE MEAN: 1.165
 pleasant_mse: 1.010 eventful_mse: 1.165 chaotic_mse: 1.132 vibrant_mse: 1.072
 uneventful_mse: 1.344 calm_mse: 1.133 annoying_mse: 1.146 monotonous_mse: 1.319
 ``` 
@@ -341,7 +341,7 @@ python inference.py
 Parameters num: 2.701812 M
 ASC	Acc:  95.76 %
 AEC	AUC:  0.94
-PAQ_8D_AR	MSE MEAN: 1.027
+PAQ_8D_AQ	MSE MEAN: 1.027
 pleasant_mse: 0.870 eventful_mse: 1.029 chaotic_mse: 1.047 vibrant_mse: 0.965
 uneventful_mse: 1.134 calm_mse: 0.967 annoying_mse: 1.062 monotonous_mse: 1.140
 ``` 
