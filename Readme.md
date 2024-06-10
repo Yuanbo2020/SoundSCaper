@@ -17,7 +17,7 @@ Paper link:
     + [3. Process of the LLM part in the SoundSCaper](#3-process-of-the-llm-part-in-the-soundscaper)
 	+ [4. Spearman's rho correlation between different AQs and AEs predicted by SoundAQnet](#4-spearmans-rho-correlation-r-between-different-ars-and-aes-predicted-by-soundaqnet)
 	+ [5. Spearman's rho correlation between different AEs and 8D AQs predicted by SoundAQnet](#5-spearmans-rho-correlation-r-between-different-aes-and-8d-aqs-predicted-by-soundaqnet)
-  * [Run Sound-AQ models to predict the acoustic scene, audio event, and human-perceived affective responses](#run-sound-aq-models-to-predict-the-acoustic-scene-audio-event-and-human-perceived-affective-responses)
+  * [Run Sound-AQ models to predict the acoustic scene, audio event, and human-perceived affective qualities](#run-sound-aq-models-to-predict-the-acoustic-scene-audio-event-and-human-perceived-affective-qualities)
     + [1. AD_CNN](#1-ad_cnn)
     + [2. Baseline CNN](#2-baseline-cnn)
     + [3. Hierachical CNN](#3-hierachical-cnn)
@@ -105,7 +105,7 @@ Please see details [here](Inferring_soundscape_clips_for_LLM#4-demonstration).
 
 ### 2. Generate soundscape captions using generic LLM
 
-This part, [LLM_scripts_for_generating_soundscape_caption](LLM_scripts_for_generating_soundscape_caption), loads the acoustic scene, audio events, and PAQ 8-dimensional affective response values corresponding to the soundscape audio clip predicted by SoundAQnet, and then outputs the corresponding soundscape descriptions. <br> Please fill in your OpenAI username and password in [LLM_GPT_soundscape_caption.py](LLM_scripts_for_generating_soundscape_caption/LLM_GPT_soundscape_caption.py).
+This part, [LLM_scripts_for_generating_soundscape_caption](LLM_scripts_for_generating_soundscape_caption), loads the acoustic scene, audio events, and PAQ 8-dimensional affective quality values corresponding to the soundscape audio clip predicted by SoundAQnet, and then outputs the corresponding soundscape descriptions. <br> Please fill in your OpenAI username and password in [LLM_GPT_soundscape_caption.py](LLM_scripts_for_generating_soundscape_caption/LLM_GPT_soundscape_caption.py).
 
 1\) Data preparation
 
@@ -223,7 +223,7 @@ For all 15 AE results, please see [here](Figure/event15.png).
 <br>
 
 
-## Run Sound-AQ models to predict the acoustic scene, audio event, and human-perceived affective responses 
+## Run Sound-AQ models to predict the acoustic scene, audio event, and human-perceived affective qualities 
 
 Please download the testing set (about 3 GB) from [here](https://drive.google.com/file/d/1Rzse5NfbNKyT3mNgcz-y1GUueAnjlOR1/view?usp=sharing), and place it under the Dataset folder.
  
