@@ -37,7 +37,7 @@ Paper link:
 
 - Download and place the ARAUS dataset ([ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main)) into the [Dataset_all_ARAUS](Dataset_all_ARAUS) directory or the [Dataset_training_validation_test](Dataset_training_validation_test) directory (recommended)
 
-- Follow the ARAUS steps ([ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main)) to generate the raw audio dataset. The dataset is about 53 GB, please reserve enough space when preparing the dataset. (If it is in WAV, it may be about 132 GB.)
+- Follow the ARAUS steps ([ARAUS_repository](https://github.com/ntudsp/araus-dataset-baseline-models/tree/main)) to generate the raw audio dataset. The dataset is about 53 GB, please reserve enough space when preparing the dataset. (If it is in WAV, it may be about 134 GB.)
 
 - Split the raw audio dataset according to the training, validation, and test audio file IDs in the [Dataset_training_validation_test](Dataset_training_validation_test) directory.
 
