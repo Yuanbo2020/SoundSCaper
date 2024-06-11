@@ -1,7 +1,7 @@
 import numpy as np
 import h5py, os, pickle, torch
 import time
-from framework.utilities import calculate_scalar, scale, create_folder
+from framework.utilities import scale, create_folder
 import framework.config as config
 
 import dgl
@@ -47,21 +47,12 @@ class DataGenerator_Mel_loudness_graph(object):
         normalization_log_mel_file = os.path.join(output_dir, 'norm_log_mel.pickle')
         normalization_loudness_file = os.path.join(output_dir, 'norm_loudness.pickle')
 
-        print('using: ', normalization_log_mel_file)
         norm_pickle = self.load_pickle(normalization_log_mel_file)
         self.mean_log_mel = norm_pickle['mean']
         self.std_log_mel = norm_pickle['std']
-        print(self.mean_log_mel)
-        print(self.std_log_mel)
-
-        print('using: ', normalization_loudness_file)
         norm_pickle = self.load_pickle(normalization_loudness_file)
         self.mean_loudness = norm_pickle['mean']
         self.std_loudness = norm_pickle['std']
-        print(self.mean_loudness)
-        print(self.std_loudness)
-        print("norm: ", self.mean_log_mel.shape, self.std_log_mel.shape)
-        print("norm: ", self.mean_loudness.shape, self.std_loudness.shape)
 
         print('Loading data time: {:.3f} s'.format(time.time() - load_time))
 
@@ -195,8 +186,8 @@ class DataGenerator_Mel_loudness_graph(object):
             batch_x = self.test_x[batch_audio_indexes]
             batch_x_loudness = self.test_x_loudness[batch_audio_indexes]
             if self.normal:
-                batch_x = self.transform(batch_x, self.mean_log_mel, self.mean_log_mel)
-                batch_x_loudness = self.transform(batch_x_loudness, self.mean_loudness, self.mean_loudness)
+                batch_x = self.transform(batch_x, self.mean_log_mel, self.std_log_mel)
+                batch_x_loudness = self.transform(batch_x_loudness, self.mean_loudness, self.std_loudness)
 
             batch_graph = [self.one_graph for j in range(self.batch_size)]
 

@@ -1,7 +1,7 @@
 import numpy as np
 import os, pickle
 import time
-from framework.utilities import calculate_scalar, scale, create_folder
+from framework.utilities import scale, create_folder
 import framework.config as config
 
 
@@ -56,40 +56,13 @@ class DataGenerator_Mel_loudness_no_graph(object):
         normalization_log_mel_file = os.path.join(output_dir, 'norm_log_mel.pickle')
         normalization_loudness_file = os.path.join(output_dir, 'norm_loudness.pickle')
 
-        if self.normal and not os.path.exists(normalization_loudness_file) or overwrite:
-            norm_pickle = {}
-            if using_mel:
-                (self.mean_log_mel, self.std_log_mel) = calculate_scalar(np.concatenate(self.train_x))
-                norm_pickle['mean'] = self.mean_log_mel
-                norm_pickle['std'] = self.std_log_mel
-                self.save_pickle(norm_pickle, normalization_log_mel_file)
-
-            if using_loudness:
-                norm_pickle = {}
-                (self.mean_loudness, self.std_loudness) = calculate_scalar(np.concatenate(self.train_x_loudness))
-                norm_pickle['mean'] = self.mean_loudness
-                norm_pickle['std'] = self.std_loudness
-                self.save_pickle(norm_pickle, normalization_loudness_file)
-        else:
-            if using_mel:
-                print('using: ', normalization_log_mel_file)
-                norm_pickle = self.load_pickle(normalization_log_mel_file)
-                self.mean_log_mel = norm_pickle['mean']
-                self.std_log_mel = norm_pickle['std']
-                print(self.mean_log_mel)
-                print(self.std_log_mel)
-
-            if using_loudness:
-                print('using: ', normalization_loudness_file)
-                norm_pickle = self.load_pickle(normalization_loudness_file)
-                self.mean_loudness = norm_pickle['mean']
-                self.std_loudness = norm_pickle['std']
-                print(self.mean_loudness)
-                print(self.std_loudness)
         if using_mel:
-            print("norm: ", self.mean_log_mel.shape, self.std_log_mel.shape)
+            norm_pickle = self.load_pickle(normalization_log_mel_file)
+            self.mean_log_mel, self.std_log_mel = norm_pickle['mean'], norm_pickle['std']
+
         if using_loudness:
-            print("norm: ", self.mean_loudness.shape, self.std_loudness.shape)
+            norm_pickle = self.load_pickle(normalization_loudness_file)
+            self.mean_loudness, self.std_loudness = norm_pickle['mean'], norm_pickle['std']
 
         print('Loading data time: {:.3f} s'.format(time.time() - load_time))
 
@@ -211,9 +184,9 @@ class DataGenerator_Mel_loudness_no_graph(object):
                 batch_x_loudness = self.train_x_loudness[batch_audio_indexes]
             if self.normal:
                 if self.using_mel:
-                    batch_x = self.transform(batch_x, self.mean_log_mel, self.mean_log_mel)
+                    batch_x = self.transform(batch_x, self.mean_log_mel, self.std_log_mel)
                 if self.using_loudness:
-                    batch_x_loudness = self.transform(batch_x_loudness, self.mean_loudness, self.mean_loudness)
+                    batch_x_loudness = self.transform(batch_x_loudness, self.mean_loudness, self.std_loudness)
 
             # ----------------------- emotions ------------------------------------------------------------------------
             batch_scene = self.train_scene_labels[batch_audio_indexes]
@@ -302,9 +275,9 @@ class DataGenerator_Mel_loudness_no_graph(object):
                 batch_x_loudness = self.val_x_loudness[batch_audio_indexes]
             if self.normal:
                 if self.using_mel:
-                    batch_x = self.transform(batch_x, self.mean_log_mel, self.mean_log_mel)
+                    batch_x = self.transform(batch_x, self.mean_log_mel, self.std_log_mel)
                 if self.using_loudness:
-                    batch_x_loudness = self.transform(batch_x_loudness, self.mean_loudness, self.mean_loudness)
+                    batch_x_loudness = self.transform(batch_x_loudness, self.mean_loudness, self.std_loudness)
 
             # ----------------------- emotions ------------------------------------------------------------------------
             batch_scene = self.val_scene_labels[batch_audio_indexes]
@@ -394,9 +367,9 @@ class DataGenerator_Mel_loudness_no_graph(object):
                 batch_x_loudness = self.test_x_loudness[batch_audio_indexes]
             if self.normal:
                 if self.using_mel:
-                    batch_x = self.transform(batch_x, self.mean_log_mel, self.mean_log_mel)
+                    batch_x = self.transform(batch_x, self.mean_log_mel, self.std_log_mel)
                 if self.using_loudness:
-                    batch_x_loudness = self.transform(batch_x_loudness, self.mean_loudness, self.mean_loudness)
+                    batch_x_loudness = self.transform(batch_x_loudness, self.mean_loudness, self.std_loudness)
 
             # ----------------------- emotions ------------------------------------------------------------------------
             batch_scene = self.test_scene_labels[batch_audio_indexes]

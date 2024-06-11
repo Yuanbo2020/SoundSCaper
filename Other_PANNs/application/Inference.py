@@ -29,7 +29,7 @@ def main(argv):
     print(model)
 
     syspath = os.path.join(os.getcwd(), 'system', 'model')
-    file = 'PANNs_AS_AE_AR.pth'
+    file = 'PANNs_AS_AE_AQ.pth'
 
     event_model_path = os.path.join(syspath, file)
 
