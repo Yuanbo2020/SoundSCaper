@@ -45,7 +45,21 @@ Soundscape caption: In this park, you will hear Bird and Animal sounds, along wi
 python LLM_GPT_soundscape_caption.py
 -----------------------------------------------------------------------------------------------------------
 Soundscape audio clip: fold_1_participant_00056_stimulus_13
+Soundscape caption: In this park, you will hear animal sounds, human sounds, speech, and birds, creating a lively environment. The background is filled with natural sounds, and occasionally you may hear the sounds of things and vehicles. The atmosphere is pleasant and calm, not chaotic, annoying, or monotonous. 
+```
+
+```python
+python LLM_GPT_soundscape_caption.py
+-----------------------------------------------------------------------------------------------------------
+Soundscape audio clip: fold_1_participant_00056_stimulus_13
 Soundscape caption: In this park, you hear a variety of sounds such as birds chirping, animals moving around, and distant human voices chatting. The atmosphere feels pleasant and calm, making it a serene and peaceful environment to be in. 
+```
+
+```python
+python LLM_GPT_soundscape_caption.py
+-----------------------------------------------------------------------------------------------------------
+Soundscape audio clip: fold_1_participant_00056_stimulus_13
+Soundscape caption: In this park, you will hear animal sounds, human sounds, and speech, creating a lively atmosphere. Birds chirping and the natural environment provide a soothing background. Some noise can be heard as well. Overall, the soundscape is pleasant and calm, with a touch of liveliness and nature's presence. 
 ```
 
 

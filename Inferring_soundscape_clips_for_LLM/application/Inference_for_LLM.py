@@ -1,6 +1,6 @@
 import sys, os, argparse
 
-gpu_id = 0
+gpu_id = 1
 os.environ['CUDA_VISIBLE_DEVICES'] = str(gpu_id)
 
 sys.path.append(os.path.split(os.path.dirname(os.path.realpath(__file__)))[0])
@@ -21,8 +21,7 @@ def cal_auc(targets_event, outputs_event):
     return final_auc_event_branch
 
 
-def main(argv): 
-
+def main(argv):
     node_emb_dim = 64
     hidden_dim, out_dim = 32, 64
     batch_size = 32
@@ -40,8 +39,7 @@ def main(argv):
     print(model)
 
     syspath = os.path.join(os.getcwd(), 'system', 'model')
-    file = 'SoundAQnet_PAQ1075.pth'
-    file = 'SoundAQnet_PAQ1054.pth'
+    file = 'SoundAQnet_ASC96_AEC94_PAQ1027.pth'
 
     event_model_path = os.path.join(syspath, file)
 
@@ -69,7 +67,7 @@ def main(argv):
     result_event_dir = os.path.join(os.getcwd(), 'SoundAQnet_event_probability')
     create_folder(result_event_dir)
 
-    result_PAQ_dir = os.path.join(os.getcwd(), 'SoundAQnet_scene_ISOPl_ISOEv_PAQ8DARs')
+    result_PAQ_dir = os.path.join(os.getcwd(), 'SoundAQnet_scene_ISOPl_ISOEv_PAQ8DAQs')
     create_folder(result_PAQ_dir)
 
     for each_index, name in enumerate(dict['audio_names']):
@@ -91,16 +89,17 @@ def main(argv):
             print('Acoustic scene:', config.scene_labels[max_id])
             f.write(config.scene_labels[max_id] + '\n')
             f.write(str(dict['output_ISOPls'][each_index][0]) + '\t' + str(dict['output_ISOEvs'][each_index][0]) + '\n')
-            print('ISOP and ISOE:', str(dict['output_ISOPls'][each_index][0]) + '\t' + str(dict['output_ISOEvs'][each_index][0]))
+            print('ISOP and ISOE:',
+                  str(dict['output_ISOPls'][each_index][0]) + '\t' + str(dict['output_ISOEvs'][each_index][0]))
 
-            print('PAQ 8D ARs:', str(dict['output_pleasant'][each_index][0]) + '\t' +
-                    str(dict['output_eventful'][each_index][0]) + '\t' +
-                    str(dict['output_chaotic'][each_index][0]) + '\t' +
-                    str(dict['output_vibrant'][each_index][0]) + '\t' +
-                    str(dict['output_uneventful'][each_index][0]) + '\t' +
-                    str(dict['output_calm'][each_index][0]) + '\t' +
-                    str(dict['output_annoying'][each_index][0]) + '\t' +
-                    str(dict['output_monotonous'][each_index][0]))
+            print('PAQ 8D AQs:', str(dict['output_pleasant'][each_index][0]) + '\t' +
+                  str(dict['output_eventful'][each_index][0]) + '\t' +
+                  str(dict['output_chaotic'][each_index][0]) + '\t' +
+                  str(dict['output_vibrant'][each_index][0]) + '\t' +
+                  str(dict['output_uneventful'][each_index][0]) + '\t' +
+                  str(dict['output_calm'][each_index][0]) + '\t' +
+                  str(dict['output_annoying'][each_index][0]) + '\t' +
+                  str(dict['output_monotonous'][each_index][0]))
 
             f.write(str(dict['output_pleasant'][each_index][0]) + '\t' +
                     str(dict['output_eventful'][each_index][0]) + '\t' +

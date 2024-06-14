@@ -2,6 +2,8 @@
 
 Paper link: https://arxiv.org/abs/2406.05914
 
+ResearchGate: [SoundSCaper](https://www.researchgate.net/publication/381307435_Soundscape_Captioning_using_Sound_Affective_Quality_Network_and_Large_Language_Model)
+
 -------
 
 - [SoundSCaper](#automatic-soundscape-captioner--soundscaper---soundscape-captioning-using-sound-affective-quality-network-and-large-language-model)
@@ -84,9 +86,11 @@ This part bridges the acoustic model and the language model, organising the outp
 
 - The results, which will be fed into the LLM, will be automatically saved into the corresponding directories: `SoundAQnet_event_probability`, `SoundAQnet_scene_ISOPl_ISOEv_PAQ8DAQs`
 
-- There are two similar SoundAQnet models in the `system/model` directory; please feel free to use them
-	- SoundAQnet_PAQ1054.pth
-	- SoundAQnet_PAQ1075.pth
+- There are four similar SoundAQnet models in the `system/model` directory; please feel free to use them
+	- SoundAQnet_ASC96_AEC94_PAQ1027.pth
+	- SoundAQnet_ASC96_AEC94_PAQ1039.pth
+	- SoundAQnet_ASC96_AEC94_PAQ1041.pth
+	- SoundAQnet_ASC96_AEC95_PAQ1052.pth
 
 3\) Inference with other models
 
@@ -148,16 +152,6 @@ There are two sheets in the file `SoundSCaper_expert_evaluation_results.xlsx`.
 - Sheet 2 is the statistical results of 16 human experts and SoundSCaper on the model-unseen mixed external dataset D2, which has 30 samples randomly selected from 5 external audio scene datasets with varying lengths and acoustic properties.
 
 -------------
-
-<!-- 
-### 3. SoundSCaper One Run
-
-[One_Run](One_Run) provides the scripts to convert target audio clips directly into soundscape descriptions for easy inference-only use.
-
-If you want to skip the tedious training steps and use LLM-SoundSCaper directly, go directly to [One_Run](One_Run).
-
-Please fill in your OpenAI username and password in LLM_scripts.
--->
 
 ### 4. Other models
   
@@ -236,12 +230,12 @@ cd Other_AD_CNN/application/
 python inference.py
 -----------------------------------------------------------------------------------------------------------
 Number of 3576 audios in testing
-Parameters num: 0.521472 M
-ASC	Acc:  89.42 %
-AEC	AUC:  0.85
-PAQ_8D_AQ	MSE MEAN: 1.125
-pleasant_mse: 0.976 eventful_mse: 1.097 chaotic_mse: 1.106 vibrant_mse: 1.061
-uneventful_mse: 1.246 calm_mse: 1.059 annoying_mse: 1.198 monotonous_mse: 1.259
+Parameters num: 0.521472 M 
+ASC	Acc:  89.30 %
+AEC	AUC:  0.84
+PAQ_8D_AQ	MSE MEAN: 1.137
+pleasant_mse: 0.995 eventful_mse: 1.174 chaotic_mse: 1.155 vibrant_mse: 1.135
+uneventful_mse: 1.184 calm_mse: 1.048 annoying_mse: 1.200 monotonous_mse: 1.205
 ``` 
 
 ### 2. Baseline CNN
@@ -250,12 +244,11 @@ uneventful_mse: 1.246 calm_mse: 1.059 annoying_mse: 1.198 monotonous_mse: 1.259
 cd Other_Baseline_CNN/application/
 python inference.py
 -----------------------------------------------------------------------------------------------------------
-Parameters num: 1.0099 M
-ASC	Acc:  86.96 %
+ASC	Acc:  88.37 %
 AEC	AUC:  0.92
-PAQ_8D_AQ	MSE MEAN: 1.301
-pleasant_mse: 0.991 eventful_mse: 1.445 chaotic_mse: 1.330 vibrant_mse: 1.466
-uneventful_mse: 1.378 calm_mse: 1.079 annoying_mse: 1.261 monotonous_mse: 1.457
+PAQ_8D_AQ	MSE MEAN: 1.250
+pleasant_mse: 1.030 eventful_mse: 1.233 chaotic_mse: 1.452 vibrant_mse: 1.074
+uneventful_mse: 1.254 calm_mse: 1.095 annoying_mse: 1.637 monotonous_mse: 1.222
 ``` 
 
 ### 3. Hierachical CNN
@@ -265,11 +258,11 @@ cd Other_Hierarchical_CNN/application/
 python inference.py
 -----------------------------------------------------------------------------------------------------------
 Parameters num: 1.009633 M
-ASC	Acc:  90.77 %
-AEC	AUC:  0.89
-PAQ_8D_AQ	MSE MEAN: 1.194
-pleasant_mse: 1.071 eventful_mse: 1.295 chaotic_mse: 1.123 vibrant_mse: 1.049
-uneventful_mse: 1.286 calm_mse: 1.087 annoying_mse: 1.327 monotonous_mse: 1.313
+ASC	Acc:  90.68 %
+AEC	AUC:  0.88
+PAQ_8D_AQ	MSE MEAN: 1.240
+pleasant_mse: 0.993 eventful_mse: 1.518 chaotic_mse: 1.259 vibrant_mse: 1.162
+uneventful_mse: 1.214 calm_mse: 1.251 annoying_mse: 1.349 monotonous_mse: 1.171
 ``` 
 
 ### 4. MobileNetV2
@@ -279,11 +272,11 @@ cd Other_MobileNetV2/application/
 python inference.py
 -----------------------------------------------------------------------------------------------------------
 Parameters num: 2.259164 M
-ASC	Acc:  89.89 %
+ASC	Acc:  88.79 %
 AEC	AUC:  0.92
-PAQ_8D_AQ	MSE MEAN: 1.140
-pleasant_mse: 0.951 eventful_mse: 1.147 chaotic_mse: 1.164 vibrant_mse: 0.986
-uneventful_mse: 1.338 calm_mse: 1.120 annoying_mse: 1.173 monotonous_mse: 1.241
+PAQ_8D_AQ	MSE MEAN: 1.139
+pleasant_mse: 0.996 eventful_mse: 1.120 chaotic_mse: 1.179 vibrant_mse: 1.011
+uneventful_mse: 1.273 calm_mse: 1.148 annoying_mse: 1.183 monotonous_mse: 1.199
 ``` 
 
 ### 5. YAMNet
@@ -293,11 +286,11 @@ cd Other_YAMNet/application/
 python inference.py
 -----------------------------------------------------------------------------------------------------------
 Parameters num: 3.2351 M
-ASC	Acc:  88.46 %
+ASC	Acc:  89.17 %
 AEC	AUC:  0.91
-PAQ_8D_AQ	MSE MEAN: 1.205
-pleasant_mse: 1.028 eventful_mse: 1.228 chaotic_mse: 1.230 vibrant_mse: 1.058
-uneventful_mse: 1.388 calm_mse: 1.170 annoying_mse: 1.262 monotonous_mse: 1.275
+PAQ_8D_AQ	MSE MEAN: 1.197
+pleasant_mse: 1.013 eventful_mse: 1.265 chaotic_mse: 1.168 vibrant_mse: 1.103
+uneventful_mse: 1.404 calm_mse: 1.125 annoying_mse: 1.220 monotonous_mse: 1.277
 ``` 
 
 ### 6. CNN-Transformer
@@ -307,29 +300,29 @@ cd Other_CNN_Transformer/application/
 python inference.py
 -----------------------------------------------------------------------------------------------------------
 Parameters num: 12.293996 M
-ASC	Acc:  92.74 %
+ASC	Acc:  93.10 %
 AEC	AUC:  0.93
-PAQ_8D_AQ	MSE MEAN: 1.334
-pleasant_mse: 1.097 eventful_mse: 1.389 chaotic_mse: 1.328 vibrant_mse: 1.285
-uneventful_mse: 1.510 calm_mse: 1.239 annoying_mse: 1.360 monotonous_mse: 1.466
+PAQ_8D_AQ	MSE MEAN: 1.318
+pleasant_mse: 1.112 eventful_mse: 1.333 chaotic_mse: 1.324 vibrant_mse: 1.204
+uneventful_mse: 1.497 calm_mse: 1.234 annoying_mse: 1.365 monotonous_mse: 1.478
 ``` 
 
 ### 7. PANNs
 
-* Please download the trained model [PANNs_AS_AE_AQ](https://drive.google.com/file/d/11oIX8cAmqi4a55r8fnj6nMjOA1p-OHHw/view?usp=sharing) ~304MB 
+* Please download the trained model [PANNs_AS_AE_AQ](https://drive.google.com/file/d/1WH7BiY8p7-HFJZWkSLSrLgmqvM3d7usN/view?usp=sharing) ~304MB 
 * unzip it 
-* put the model `final_model.pth` under the `Other_PANNs\application\system\model` 
+* put the model `PANNs_AS_AE_AQ.pth` under the `Other_PANNs\application\system\model` 
 
 ```python  
 cd Other_PANNs/application/
 python inference.py
 -----------------------------------------------------------------------------------------------------------
 Parameters num: 79.731036 M
-ASC	Acc:  93.13 %
-AEC	AUC:  0.91
-PAQ_8D_AQ	MSE MEAN: 1.165
-pleasant_mse: 1.010 eventful_mse: 1.165 chaotic_mse: 1.132 vibrant_mse: 1.072
-uneventful_mse: 1.344 calm_mse: 1.133 annoying_mse: 1.146 monotonous_mse: 1.319
+ASC	Acc:  93.28 %
+AEC	AUC:  0.89
+PAQ_8D_AQ	MSE MEAN: 1.139
+pleasant_mse: 1.080 eventful_mse: 1.097 chaotic_mse: 1.110 vibrant_mse: 1.087
+uneventful_mse: 1.267 calm_mse: 1.160 annoying_mse: 1.086 monotonous_mse: 1.227
 ``` 
  
 ### 8. SoundAQnet
@@ -339,11 +332,11 @@ cd SoundAQnet/application/
 python inference.py
 -----------------------------------------------------------------------------------------------------------
 Parameters num: 2.701812 M
-ASC	Acc:  95.76 %
+ASC	Acc:  96.09 %
 AEC	AUC:  0.94
 PAQ_8D_AQ	MSE MEAN: 1.027
-pleasant_mse: 0.870 eventful_mse: 1.029 chaotic_mse: 1.047 vibrant_mse: 0.965
-uneventful_mse: 1.134 calm_mse: 0.967 annoying_mse: 1.062 monotonous_mse: 1.140
+pleasant_mse: 0.880 eventful_mse: 1.029 chaotic_mse: 1.043 vibrant_mse: 0.972
+uneventful_mse: 1.126 calm_mse: 0.969 annoying_mse: 1.055 monotonous_mse: 1.140
 ``` 
 
 

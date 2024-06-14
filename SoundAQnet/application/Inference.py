@@ -1,6 +1,6 @@
 import sys, os, argparse
 
-gpu_id = 0
+gpu_id = 1
 os.environ['CUDA_VISIBLE_DEVICES'] = str(gpu_id)
 
 sys.path.append(os.path.split(os.path.dirname(os.path.realpath(__file__)))[0])
@@ -39,7 +39,34 @@ def main(argv):
     print(model)
 
     syspath = os.path.join(os.getcwd(), 'system', 'model')
-    file = 'final_model.pth'
+    file = 'SoundAQnet_ASC96_AEC94_PAQ1027.pth'
+    # Parameters num: 2.701812 M
+    # ASC	Acc:  96.09 %
+    # AEC	AUC:  0.94
+    # PAQ_8D_AQ	MSE MEAN: 1.027
+    # pleasant_mse: 0.880 eventful_mse: 1.029 chaotic_mse: 1.043 vibrant_mse: 0.972
+    # uneventful_mse: 1.126 calm_mse: 0.969 annoying_mse: 1.055 monotonous_mse: 1.140
+
+    # file = 'SoundAQnet_ASC96_AEC94_PAQ1039.pth'
+    # # ASC	Acc:  95.69 %
+    # # AEC	AUC:  0.94
+    # # PAQ_8D_AQ	MSE MEAN: 1.039
+    # # pleasant_mse: 0.887 eventful_mse: 1.041 chaotic_mse: 1.062 vibrant_mse: 0.979
+    # # uneventful_mse: 1.152 calm_mse: 0.981 annoying_mse: 1.058 monotonous_mse: 1.154
+
+    # file = 'SoundAQnet_ASC96_AEC95_PAQ1052.pth'
+    # # ASC	Acc:  95.52 %
+    # # AEC	AUC:  0.95
+    # # PAQ_8D_AQ	MSE MEAN: 1.052
+    # # pleasant_mse: 0.902 eventful_mse: 1.057 chaotic_mse: 1.073 vibrant_mse: 0.987
+    # # uneventful_mse: 1.157 calm_mse: 1.006 annoying_mse: 1.068 monotonous_mse: 1.167
+
+    # file = 'SoundAQnet_ASC96_AEC94_PAQ1041.pth'
+    # # ASC	Acc:  95.99 %
+    # # AEC	AUC:  0.94
+    # # PAQ_8D_AQ	MSE MEAN: 1.041
+    # # pleasant_mse: 0.890 eventful_mse: 1.047 chaotic_mse: 1.052 vibrant_mse: 0.974
+    # # uneventful_mse: 1.152 calm_mse: 0.995 annoying_mse: 1.065 monotonous_mse: 1.151
 
     event_model_path = os.path.join(syspath, file)
 
@@ -55,7 +82,6 @@ def main(argv):
 
     Dataset_path = os.path.join(os.getcwd(), 'Dataset')
     generator = DataGenerator_Mel_loudness_graph(Dataset_path, node_emb_dim, number_of_nodes)
-
 
     # Generate function
     generate_func = generator.generate_testing(data_type='testing')

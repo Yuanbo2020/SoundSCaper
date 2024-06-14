@@ -86,7 +86,12 @@ def main(argv):
           'annoying_mse: %.3f' % float(annoying_mse), 'monotonous_mse: %.3f' % float(monotonous_mse))
 
 
-
+#  Parameters num: 0.521472 M
+# ASC	Acc:  89.30 %
+# AEC	AUC:  0.84
+# PAQ_8D_AQ	MSE MEAN: 1.137
+# pleasant_mse: 0.995 eventful_mse: 1.174 chaotic_mse: 1.155 vibrant_mse: 1.135
+# uneventful_mse: 1.184 calm_mse: 1.048 annoying_mse: 1.200 monotonous_mse: 1.205
 
 
 if __name__ == "__main__":

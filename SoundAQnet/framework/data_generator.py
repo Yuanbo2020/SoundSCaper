@@ -1,7 +1,7 @@
 import numpy as np
 import h5py, os, pickle, torch
 import time
-from framework.utilities import scale, create_folder
+from framework.utilities import calculate_scalar, scale, create_folder
 import framework.config as config
 
 import dgl
@@ -11,7 +11,7 @@ from dgl.data.utils import save_graphs
 
 
 class DataGenerator_Mel_loudness_graph(object):
-    def __init__(self, Dataset_path, node_emb_dim, number_of_nodes = 8, seed=42, normalization=True, overwrite=True):
+    def __init__(self, Dataset_path, node_emb_dim, number_of_nodes = 8, seed=42, normalization=True, overwrite=False):
         self.Dataset_path = Dataset_path
         self.batch_size = config.batch_size
         self.random_state = np.random.RandomState(seed)
@@ -40,26 +40,26 @@ class DataGenerator_Mel_loudness_graph(object):
         save_graphs(graph_path, [g])
         ################################################################################################################
 
-        # file_path = os.path.join(Dataset_path, 'Training_set','training_scene_event_PAQs.pickle')
-        # all_data = self.load_pickle(file_path)
-        #
-        # self.train_features, self.train_scene_labels, self.train_sound_maskers, self.train_ISOPls, self.train_ISOEvs, \
-        # self.train_pleasant, self.train_eventful, self.train_chaotic, self.train_vibrant, \
-        # self.train_uneventful, self.train_calm, self.train_annoying,  self.train_monotonous, _ = self.get_input_output(all_data)
-        #
-        # all_feature_file_path = os.path.join(Dataset_path, 'Training_set', 'training_log_mel.pickle')
-        # self.train_all_feature_data = self.load_pickle(all_feature_file_path)
-        # # print(all_feature_data.keys())
-        # self.train_x = np.array([self.train_all_feature_data[name] for name in self.train_features])
-        # print('self.train_x: ', self.train_x.shape)
-        # # self.train_x:  (19152, 3001, 64)
-        #
-        # all_feature_file_path = os.path.join(Dataset_path, 'Training_set', 'training_loudness.pickle')
-        # self.train_all_feature_data_loudness = self.load_pickle(all_feature_file_path)
-        # # print(all_feature_data.keys())
-        # self.train_x_loudness = np.array([self.train_all_feature_data_loudness[name] for name in self.train_features])
-        # print('self.train_x_loudness: ', self.train_x_loudness.shape)
-        # # self.train_x_loudness:  (19152, 15000, 1)
+        file_path = os.path.join(Dataset_path, 'Training_set','training_scene_event_PAQs.pickle')
+        all_data = self.load_pickle(file_path)
+
+        self.train_features, self.train_scene_labels, self.train_sound_maskers, self.train_ISOPls, self.train_ISOEvs, \
+        self.train_pleasant, self.train_eventful, self.train_chaotic, self.train_vibrant, \
+        self.train_uneventful, self.train_calm, self.train_annoying,  self.train_monotonous, _ = self.get_input_output(all_data)
+
+        all_feature_file_path = os.path.join(Dataset_path, 'Training_set', 'training_log_mel.pickle')
+        self.train_all_feature_data = self.load_pickle(all_feature_file_path)
+        # print(all_feature_data.keys())
+        self.train_x = np.array([self.train_all_feature_data[name] for name in self.train_features])
+        print('self.train_x: ', self.train_x.shape)
+        # self.train_x:  (19152, 3001, 64)
+
+        all_feature_file_path = os.path.join(Dataset_path, 'Training_set', 'training_loudness.pickle')
+        self.train_all_feature_data_loudness = self.load_pickle(all_feature_file_path)
+        # print(all_feature_data.keys())
+        self.train_x_loudness = np.array([self.train_all_feature_data_loudness[name] for name in self.train_features])
+        print('self.train_x_loudness: ', self.train_x_loudness.shape)
+        # self.train_x_loudness:  (19152, 15000, 1)
 
         self.normal = normalization
         output_dir = os.path.join(Dataset_path, '0_normalization_files')
@@ -68,12 +68,36 @@ class DataGenerator_Mel_loudness_graph(object):
         normalization_log_mel_file = os.path.join(output_dir, 'norm_log_mel.pickle')
         normalization_loudness_file = os.path.join(output_dir, 'norm_loudness.pickle')
 
-        norm_pickle = self.load_pickle(normalization_log_mel_file)
-        self.mean_log_mel = norm_pickle['mean']
-        self.std_log_mel = norm_pickle['std']
-        norm_pickle = self.load_pickle(normalization_loudness_file)
-        self.mean_loudness = norm_pickle['mean']
-        self.std_loudness = norm_pickle['std']
+
+        if self.normal and not os.path.exists(normalization_loudness_file) or overwrite:
+            norm_pickle = {}
+            (self.mean_log_mel, self.std_log_mel) = calculate_scalar(np.concatenate(self.train_x))
+            norm_pickle['mean'] = self.mean_log_mel
+            norm_pickle['std'] = self.std_log_mel
+            self.save_pickle(norm_pickle, normalization_log_mel_file)
+
+            norm_pickle = {}
+            (self.mean_loudness, self.std_loudness) = calculate_scalar(np.concatenate(self.train_x_loudness))
+            norm_pickle['mean'] = self.mean_loudness
+            norm_pickle['std'] = self.std_loudness
+            self.save_pickle(norm_pickle, normalization_loudness_file)
+        else:
+            print('using: ', normalization_log_mel_file)
+            norm_pickle = self.load_pickle(normalization_log_mel_file)
+            self.mean_log_mel = norm_pickle['mean']
+            self.std_log_mel = norm_pickle['std']
+            print('Log Mel Mean: ', self.mean_log_mel)
+            print('Log Mel STD: ', self.std_log_mel)
+
+            print('using: ', normalization_loudness_file)
+            norm_pickle = self.load_pickle(normalization_loudness_file)
+            self.mean_loudness = norm_pickle['mean']
+            self.std_loudness = norm_pickle['std']
+            print('Loudness Mean: ', self.mean_loudness)
+            print('Loudness STD: ', self.std_loudness)
+
+        print("norm: ", self.mean_log_mel.shape, self.std_log_mel.shape)
+        print("norm: ", self.mean_loudness.shape, self.std_loudness.shape)
 
         print('Loading data time: {:.3f} s'.format(time.time() - load_time))
 

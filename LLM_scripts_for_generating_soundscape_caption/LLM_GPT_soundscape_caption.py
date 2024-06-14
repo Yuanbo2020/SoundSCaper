@@ -33,7 +33,7 @@ def main(argv):
         print('Soundscape audio clip:', key.split('_scene_PAQ.txt')[0])
 
         event_labels_original = value['event_labels']
-        emotion = value['PAQ8ARs']
+        emotion = value['PAQ8AQs']
         event_probability_original = value['event']
         thresholds = [0.4, 0.3, 0.2]
         if any(i > 0.4 for i in event_probability_original):

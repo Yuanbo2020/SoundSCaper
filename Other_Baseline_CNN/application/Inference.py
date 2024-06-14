@@ -30,7 +30,7 @@ def main(argv):
 
     syspath = os.path.join(os.getcwd(), 'system', 'model')
     file = 'final_model.pth'
-
+     
     event_model_path = os.path.join(syspath, file)
 
     model_event = torch.load(event_model_path, map_location='cpu')

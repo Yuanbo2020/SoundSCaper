@@ -1,7 +1,7 @@
 import numpy as np
 import os, pickle
 import time
-from framework.utilities import scale, create_folder
+from framework.utilities import calculate_scalar, scale, create_folder
 import framework.config as config
 
 
@@ -56,13 +56,40 @@ class DataGenerator_Mel_loudness_no_graph(object):
         normalization_log_mel_file = os.path.join(output_dir, 'norm_log_mel.pickle')
         normalization_loudness_file = os.path.join(output_dir, 'norm_loudness.pickle')
 
-        if using_mel:
-            norm_pickle = self.load_pickle(normalization_log_mel_file)
-            self.mean_log_mel, self.std_log_mel = norm_pickle['mean'], norm_pickle['std']
+        if self.normal and not os.path.exists(normalization_loudness_file) or overwrite:
+            norm_pickle = {}
+            if using_mel:
+                (self.mean_log_mel, self.std_log_mel) = calculate_scalar(np.concatenate(self.train_x))
+                norm_pickle['mean'] = self.mean_log_mel
+                norm_pickle['std'] = self.std_log_mel
+                self.save_pickle(norm_pickle, normalization_log_mel_file)
 
+            if using_loudness:
+                norm_pickle = {}
+                (self.mean_loudness, self.std_loudness) = calculate_scalar(np.concatenate(self.train_x_loudness))
+                norm_pickle['mean'] = self.mean_loudness
+                norm_pickle['std'] = self.std_loudness
+                self.save_pickle(norm_pickle, normalization_loudness_file)
+        else:
+            if using_mel:
+                print('using: ', normalization_log_mel_file)
+                norm_pickle = self.load_pickle(normalization_log_mel_file)
+                self.mean_log_mel = norm_pickle['mean']
+                self.std_log_mel = norm_pickle['std']
+                print(self.mean_log_mel)
+                print(self.std_log_mel)
+
+            if using_loudness:
+                print('using: ', normalization_loudness_file)
+                norm_pickle = self.load_pickle(normalization_loudness_file)
+                self.mean_loudness = norm_pickle['mean']
+                self.std_loudness = norm_pickle['std']
+                print(self.mean_loudness)
+                print(self.std_loudness)
+        if using_mel:
+            print("norm: ", self.mean_log_mel.shape, self.std_log_mel.shape)
         if using_loudness:
-            norm_pickle = self.load_pickle(normalization_loudness_file)
-            self.mean_loudness, self.std_loudness = norm_pickle['mean'], norm_pickle['std']
+            print("norm: ", self.mean_loudness.shape, self.std_loudness.shape)
 
         print('Loading data time: {:.3f} s'.format(time.time() - load_time))
 
