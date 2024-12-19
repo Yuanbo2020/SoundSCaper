@@ -19,7 +19,7 @@ This part bridges the acoustic model and the language model, organising the outp
 
 - The results, which will be fed into the LLM, will be automatically saved into the corresponding directories: `SoundAQnet_event_probability`, `SoundAQnet_scene_ISOPl_ISOEv_PAQ8DAQs`
 
-- There are two slightly different SoundAQnet models in the `system/model` directory; please feel free to use them
+- There are four slightly different SoundAQnet models in the `system/model` directory; please feel free to use them
 	- SoundAQnet_ASC96_AEC94_PAQ1027.pth
 	- SoundAQnet_ASC96_AEC94_PAQ1039.pth
 	- SoundAQnet_ASC96_AEC94_PAQ1041.pth
