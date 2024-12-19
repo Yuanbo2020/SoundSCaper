@@ -166,35 +166,54 @@ The trained models of the other 7 models in the paper have been attached to thei
 
 ## Figure
 
-### 1. Overall framework of the automatic soundscape captioner (SoundSCaper)
+### 1. The 8-dimensional (8D) affective qualities (AQs) in the soundscape circumplex model (SCM) recommended by ISO/TS 12913-3:2019. 
+<h3 align="center"> <p></p></h3>
+<div align="center">
+<img src="Figure/SCM_ok.PNG" width=100%/> 
+</div>  
+-------------
+
+### 2. Results of tasks on the same audio clip: coloured texts show differences between audio captioning and soundscape captioning. Blue texts indicate human-perceived AQ-related descriptions unique to soundscape captioning.
+<h3 align="center"> <p></p></h3>
+<div align="center">
+<img src="Figure/task_differences.PNG" width=100%/> 
+</div>  
+-------------
+
+### 3. Overall framework of the automatic soundscape captioner (SoundSCaper)
 
 <h3 align="center"> <p></p></h3>
 <div align="center">
 <img src="Figure/overall_framework.png" width=100%/> 
 </div>  
-
 -------------
 
-### 2. The acoustic model SoundAQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective quality (AQ)
+### 4. The acoustic model SoundAQnet simultaneously models acoustic scene (AS), audio event (AE), and emotion-related affective quality (AQ)
 
 <h3 align="center"> <p></p></h3>
 <div align="center">
 <img src="Figure/SoundAQnet.png" width=100%/> 
 </div> 
-
 -------------
 
-### 3. Process of the LLM part in the SoundSCaper
+### 5. Process of the LLM part in the SoundSCaper
 <h3 align="center"> <p></p></h3>
 <div align="center">
 <img src="Figure/LLM_part.png" width=100%/> 
 </div> 
 
 For full prompts and the LLM script, please see [here](LLM_scripts/SoundSCaper_LLM.py).
-
 -------------
 
-### 4. Spearman's rho correlation ($r$) between different AQs and AEs predicted by SoundAQnet
+### 6. Spearman’s rho correlation coefficients of AE and AQ. *, **, and *** denote statistical significance at the 0.05, 0.01, and 0.001 levels, respectively.
+<h3 align="center"> <p></p></h3>
+<div align="center">
+<img src="Figure/vertical_layout.PNG" width=100%/> 
+</div>  
+-------------
+
+
+### 7. Spearman's rho correlation ($r$) between different AQs and AEs predicted by SoundAQnet
 <h3 align="center"> <p></p></h3>
 <div align="center">
 <img src="Figure/fig_PAQ2_event15.png" width=100%/> 
@@ -202,18 +221,25 @@ For full prompts and the LLM script, please see [here](LLM_scripts/SoundSCaper_L
 
 
 For all 8D AQ results, please see [here](Figure/PAQ8AQs.png).
-
 -------------
 
-### 5. Spearman's rho correlation ($r$) between different AEs and 8D AQs predicted by SoundAQnet
+### 8. Spearman's rho correlation ($r$) between different AEs and 8D AQs predicted by SoundAQnet
 <h3 align="center"> <p></p></h3>
 <div align="center">
 <img src="Figure/fig_event2_PAQ8.png" width=100%/> 
 </div> 
 
 For all 15 AE results, please see [here](Figure/event15.png).
- 
 -------------
+
+### 9. The scatter plot, density distribution curves, and marginal distributions for the 3 scenes involved are from SoundAQnet’s predictions
+<h3 align="center"> <p></p></h3>
+<div align="center">
+<img src="Figure/3_density_margin_plot.PNG" width=100%/> 
+</div>  
+-------------
+
+
 <br>
 
 
