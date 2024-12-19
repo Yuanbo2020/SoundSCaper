@@ -169,7 +169,7 @@ The trained models of the other 7 models in the paper have been attached to thei
 ### 1. The 8-dimensional (8D) affective qualities (AQs) in the soundscape circumplex model (SCM) recommended by ISO/TS 12913-3:2019. 
 <h3 align="center"> <p></p></h3>
 <div align="center">
-<img src="Figure/SCM_ok.PNG" width=70%/> 
+<img src="Figure/SCM_ok.PNG" width=60%/> 
 </div>  
 
 -------------
@@ -203,7 +203,7 @@ The trained models of the other 7 models in the paper have been attached to thei
 ### 5. Process of the LLM part in the SoundSCaper
 <h3 align="center"> <p></p></h3>
 <div align="center">
-<img src="Figure/LLM_part.png" width=85%/> 
+<img src="Figure/LLM_part.png" width=80%/> 
 </div> 
 
 For full prompts and the LLM script, please see [here](LLM_scripts/SoundSCaper_LLM.py).
@@ -213,7 +213,7 @@ For full prompts and the LLM script, please see [here](LLM_scripts/SoundSCaper_L
 ### 6. Spearman’s rho correlation coefficients of AE and AQ. *, **, and *** denote statistical significance at the 0.05, 0.01, and 0.001 levels, respectively.
 <h3 align="center"> <p></p></h3>
 <div align="center">
-<img src="Figure/vertical_layout.PNG" width=80%/> 
+<img src="Figure/vertical_layout.PNG" width=70%/> 
 </div>  
 
 -------------
@@ -240,10 +240,21 @@ For all 15 AE results, please see [here](Figure/event15.png).
 
 -------------
 
-### 9. The scatter plot, density distribution curves, and marginal distributions for the 3 scenes involved are from SoundAQnet’s predictions
+### 9. The scatter plot and density distribution curves for SoundAQnet’s predictions of each scene
 <h3 align="center"> <p></p></h3>
 <div align="center">
-<img src="Figure/3_density_margin_plot.PNG" width=90%/> 
+<img src="Figure/1_distribution_3_scenes.png" width=70%/> 
+<img src="Figure/2_density_park.png" width=70%/> 
+<img src="Figure/2_density_public_square.png" width=70%/> 
+<img src="Figure/2_density_street.png" width=70%/> 
+</div>  
+
+-------------
+
+### 11. The scatter plot, density distribution curves, and marginal distributions for the 3 scenes involved are from SoundAQnet’s predictions
+<h3 align="center"> <p></p></h3>
+<div align="center">
+<img src="Figure/3_density_margin_plot.PNG" width=85%/> 
 </div>  
 
 -------------
