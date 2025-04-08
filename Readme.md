@@ -28,7 +28,11 @@ ResearchGate: [SoundSCaper](https://www.researchgate.net/publication/381307435_S
     + [6. CNN-Transformer](#6-cnn-transformer)
     + [7. PANNs](#7-panns)
     + [8. SoundAQnet](#8-soundaqnet)
-
+  * [More supplementary experiments' codes and results]()
+	+ [1. SoundAQnet with different kernel combinations](SoundAQnet_different_kernels)
+    + [2. SoundAQnet with different numbers of convolution layers ](SoundAQnet_blocks)
+    + [3. SoundAQnet with different dilation rates](SoundAQnet_dilation_rates)
+    + [4. SoundAQnet with multi-loss weighting](SoundAQnet_multi_loss_weighting)
 <br>
 
 ## Introduction
