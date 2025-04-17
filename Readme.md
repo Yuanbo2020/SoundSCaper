@@ -9,6 +9,8 @@ ResearchGate: [SoundSCaper](https://www.researchgate.net/publication/381307435_S
 We appreciate Dr. Francesco Aletta for valuable discussions and Dr. Gunnar Cerwen for professional soundscape captions. 
 We also appreciate the following 32 audio/soundscape experts and general users who participated in the human evaluation experiments, including Boyan Zhang, Prof. Dr. Catherine Lavandier, Dr. Huizhong Zhang, Hupeng Wu, Jiayu Xie, Dr. Karlo Filipan, Kening Guo, Kenneth Ooi, Xiaochao Chen, Xiang Fang, Yi Yuan, Yanzhao Bi, Zibo Liu, Xinyi Che, Xin Shen, Chen Fang, Yanru Wu, Yuze Li, Zexi Lu, Shiheng Zhang, Xuefeng Yang, Tong Ye, Zeyu Xu, as well as three anonymous experts and six anonymous general users.
 We thank Prof. Jian Guan and Feiyang Xiao for their valuable support in revising this paper and assisting with model training.
+<br>
+
 -------
 
 - [SoundSCaper](#automatic-soundscape-captioner--soundscaper---soundscape-captioning-using-sound-affective-quality-network-and-large-language-model)
@@ -216,8 +218,7 @@ The trained models of the other 7 models in the paper have been attached to thei
 <img src="Figure/LLM_part_2025.png" width=80%/> 
 </div> 
 
-For full prompts and the LLM script, please see [here](LLM_scripts_for_generating_soundscape_caption
-/LLM_GPT_soundscape_caption.py).
+For full prompts and the LLM script, please see [here](LLM_scripts_for_generating_soundscape_caption/LLM_GPT_soundscape_caption.py).
 
 -------------
 
