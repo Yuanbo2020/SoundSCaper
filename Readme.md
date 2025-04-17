@@ -196,7 +196,7 @@ The trained models of the other 7 models in the paper have been attached to thei
 
 <h3 align="center"> <p></p></h3>
 <div align="center">
-<img src="Figure/overall_framework.png" width=80%/> 
+<img src="Figure/overall_framework_2025.png" width=80%/> 
 </div>  
 
 -------------
@@ -213,7 +213,7 @@ The trained models of the other 7 models in the paper have been attached to thei
 ### 5. Process of the LLM part in the SoundSCaper
 <h3 align="center"> <p></p></h3>
 <div align="center">
-<img src="Figure/LLM_part.png" width=80%/> 
+<img src="Figure/LLM_part_2025.png" width=80%/> 
 </div> 
 
 For full prompts and the LLM script, please see [here](LLM_scripts/SoundSCaper_LLM.py).
