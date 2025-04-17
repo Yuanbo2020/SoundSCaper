@@ -188,7 +188,7 @@ The trained models of the other 7 models in the paper have been attached to thei
 ### 2. Results of tasks on the same audio clip: coloured texts show differences between audio captioning and soundscape captioning. Blue texts indicate human-perceived AQ-related descriptions unique to soundscape captioning.
 <h3 align="center"> <p></p></h3>
 <div align="center">
-<img src="Figure/task_differences.PNG" width=100%/> 
+<img src="Figure/task_differences_2025_ok.png" width=100%/> 
 </div>  
 
 -------------
