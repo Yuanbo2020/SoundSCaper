@@ -1,4 +1,10 @@
-# dcase2024-task6-baseline
+ 
+### The training and fine-tuning of this model refer to the baseline of DCASE 2024 Task 6.
+
+### Please download the fine-tuned model for the affective soundscape captioning (AASC) task [here](https://drive.google.com/file/d/1LydvUthr8kr2JFyI5N98LnNVW2PwYBBs/view?usp=sharing). 
+
+<br>
+
 
 <div align="center">
 
@@ -137,27 +143,7 @@ The pretrained weights of the AAC model are available on Zenodo: [ConvNeXt encod
 | Model dimension size | 256 | `model.d_model` |
 | Label smoothing | 0.2 | `model.label_smoothing` |
 | Mixup alpha | 0.4 | `model.mixup_alpha` |
-
-
-### Detailed results
-
-| Metric | Score on Clotho-eval |
-| --- | --- |
-| BLEU-1 | 0.5948 |
-| BLEU-2 | 0.3924 |
-| BLEU-3 | 0.2603 |
-| BLEU-4 | 0.1695 |
-| METEOR | 0.1897 |
-| ROUGE-L | 0.3927 |
-| CIDEr-D | 0.4619 |
-| SPICE | 0.1335 |
-| SPIDEr | 0.2977 |
-| SPIDEr-FL | 0.2962 |
-| SBERT-sim | 0.5059 |
-| FER | 0.0038 |
-| FENSE | 0.5040 |
-| BERTScore | 0.9766 |
-| Vocabulary (words) | 551 |
+ 
 
 Here is also an estimation of the number of parameters and multiply-accumulate operations (MACs) during inference for the audio file "Santa Motor.wav":
 
@@ -213,16 +199,4 @@ Then you will be able to import any object from the code like for example `from 
 - The GPU used is **NVIDIA GeForce RTX 2080 Ti** (11GB VRAM). Training lasts for approximatively 2h30m in the default setting.
 - In this code, clotho subsets are named according to the **Clotho convention**, not the DCASE convention. See more information [on this page](https://aac-datasets.readthedocs.io/en/stable/data_subsets.html#clotho).
 
-
-## See also
-- [DCASE2023 Audio Captioning baseline](https://github.com/felixgontier/dcase-2023-baseline)
-- [DCASE2022 Audio Captioning baseline](https://github.com/felixgontier/dcase-2022-baseline)
-- [DCASE2021 Audio Captioning baseline](https://github.com/audio-captioning/dcase-2021-baseline)
-- [DCASE2020 Audio Captioning baseline](https://github.com/audio-captioning/dcase-2020-baseline)
-- [aac-datasets](https://github.com/Labbeti/aac-datasets)
-- [aac-metrics](https://github.com/Labbeti/aac-metrics)
-
-
-## Contact
-Maintainer:
-- [Étienne Labbé](https://labbeti.github.io/) "Labbeti": labbeti.pub@gmail.com
+ 
