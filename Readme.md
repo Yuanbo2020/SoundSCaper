@@ -4,6 +4,10 @@ Paper link: https://arxiv.org/abs/2406.05914
 
 ResearchGate: [SoundSCaper](https://www.researchgate.net/publication/381307435_Soundscape_Captioning_using_Sound_Affective_Quality_Network_and_Large_Language_Model)
 
+### Acknowledgement
+We appreciate Dr. Francesco Aletta for valuable discussions and Dr. Gunnar Cerwen for professional soundscape captions. 
+We also appreciate the following 32 audio/soundscape experts and general users who participated in the human evaluation experiments, including Boyan Zhang, Prof. Dr. Catherine Lavandier, Dr. Huizhong Zhang, Hupeng Wu, Jiayu Xie, Dr. Karlo Filipan, Kening Guo, Kenneth Ooi, Xiaochao Chen, Xiang Fang, Yi Yuan, Yanzhao Bi, Zibo Liu, Xinyi Che, Xin Shen, Chen Fang, Yanru Wu, Yuze Li, Zexi Lu, Shiheng Zhang, Xuefeng Yang, Tong Ye, Zeyu Xu, as well as three anonymous experts and six anonymous general users.
+We thank Prof. Jian Guan and Feiyang Xiao for their valuable support in revising this paper and assisting with model training.
 -------
 
 - [SoundSCaper](#automatic-soundscape-captioner--soundscaper---soundscape-captioning-using-sound-affective-quality-network-and-large-language-model)
@@ -33,6 +37,7 @@ ResearchGate: [SoundSCaper](https://www.researchgate.net/publication/381307435_S
     + [2. SoundAQnet with different numbers of convolution layers ](SoundAQnet_blocks)
     + [3. SoundAQnet with different dilation rates](SoundAQnet_dilation_rates)
     + [4. SoundAQnet with multi-loss weighting](SoundAQnet_multi_loss_weighting)
+    + [5. ConvNeXt-Trans](ConvNeXt-Trans)
 <br>
 
 ## Introduction

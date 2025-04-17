@@ -1,0 +1,296 @@
+git_hash: 137849f
+total_duration_s: 61541.03793404298
+total_duration: '17:05:41'
+config:
+  ckpt:
+    _target_: dcase24t6.callbacks.ckpt.CustomModelCheckpoint
+    dirpath: ./logs/train-2025.03.28-00.27.34-baseline/./checkpoints
+    monitor: val/loss
+    mode: min
+    filename: '{epoch:03d}-{step:06d}-mode_min-{val/loss:.4f}'
+    replace_slash_in_filename: true
+    create_best_symlink: true
+  datamodule:
+    _target_: dcase24t6.datamodules.hdf.HDFDatamodule
+    root: ./data
+    train_hdfs: custom_train_cnext.hdf
+    val_hdfs: custom_val_cnext.hdf
+    test_hdfs: custom_val_cnext.hdf
+    predict_hdfs:
+    - clotho_dcase_aac_analysis_cnext.hdf
+    - clotho_dcase_aac_test_cnext.hdf
+    train_batch_keys:
+    - frame_embs
+    - frame_embs_shape
+    - captions
+    val_batch_keys:
+    - frame_embs
+    - frame_embs_shape
+    - dataset
+    - subset
+    - fname
+    - mult_captions
+    - mult_references
+    test_batch_keys:
+    - frame_embs
+    - frame_embs_shape
+    - dataset
+    - subset
+    - fname
+    - mult_captions
+    - mult_references
+    predict_batch_keys:
+    - frame_embs
+    - frame_embs_shape
+    - dataset
+    - subset
+    - fname
+    batch_size: 64
+    num_workers: auto
+    pin_memory: true
+    train_drop_last: false
+    verbose: 1
+  emission:
+    _target_: dcase24t6.callbacks.emissions.CustomEmissionTracker
+    save_dir: ./logs/train-2025.03.28-00.27.34-baseline/.
+    emissions_fname: emissions/{task}_emissions.yaml
+    country_iso_code: null
+    offline: false
+    disabled: false
+    experiment_name: train-2025.03.28-00.27.34-baseline
+  model:
+    _target_: dcase24t6.models.trans_decoder.TransDecoderModel
+    sched_num_steps: 200
+    verbose: 1
+    lr: 0.0005
+    weight_decay: 2
+    beam_size: 3
+    d_model: 256
+    label_smoothing: 0.2
+    mixup_alpha: 0.4
+  tokenizer:
+    _target_: dcase24t6.tokenization.aac_tokenizer.AACTokenizer
+  path:
+    data_root: ./data
+    save_root: ./logs
+  datetime: 2025.03.28-00.27.34
+  save_dir: ./logs/train-2025.03.28-00.27.34-baseline/.
+  save_name: train-2025.03.28-00.27.34-baseline
+  seed: 42
+  verbose: 1
+  val_ckpt_path: null
+  test_ckpt_path: best
+  logger:
+    _target_: lightning.pytorch.loggers.tensorboard.TensorBoardLogger
+    save_dir: ./logs/train-2025.03.28-00.27.34-baseline/.
+    name: tensorboard
+    version: .
+  trainer:
+    _target_: lightning.pytorch.trainer.Trainer
+    accelerator: gpu
+    accumulate_grad_batches: 8
+    benchmark: false
+    detect_anomaly: false
+    deterministic: false
+    devices: 1
+    enable_checkpointing: true
+    enable_model_summary: false
+    fast_dev_run: false
+    gradient_clip_algorithm: norm
+    gradient_clip_val: 1
+    limit_predict_batches: null
+    limit_test_batches: null
+    limit_train_batches: null
+    limit_val_batches: null
+    log_every_n_steps: 5
+    max_epochs: 200
+    max_steps: -1
+    num_nodes: 1
+    num_sanity_val_steps: 0
+    precision: 32
+    reload_dataloaders_every_n_epochs: 0
+    val_check_interval: null
+  evaluator:
+    _target_: dcase24t6.callbacks.evaluator.Evaluator
+    save_dir: ./logs/train-2025.03.28-00.27.34-baseline/.
+    val_metrics:
+    - cider_d
+    - vocab
+    test_metrics: all
+    exclude_keys:
+    - frame_embs
+hydra:
+  run:
+    dir: ${path.save_root}/${save_name}
+  sweep:
+    dir: ${path.save_root}/${save_name}
+    subdir: .
+  launcher:
+    _target_: hydra._internal.core_plugins.basic_launcher.BasicLauncher
+  sweeper:
+    _target_: hydra._internal.core_plugins.basic_sweeper.BasicSweeper
+    max_batch_size: null
+    params: null
+  help:
+    app_name: ${hydra.job.name}
+    header: '${hydra.help.app_name} is powered by Hydra.
+
+      '
+    footer: 'Powered by Hydra (https://hydra.cc)
+
+      Use --hydra-help to view Hydra specific help
+
+      '
+    template: '${hydra.help.header}
+
+      == Configuration groups ==
+
+      Compose your configuration from those groups (group=option)
+
+
+      $APP_CONFIG_GROUPS
+
+
+      == Config ==
+
+      Override anything in the config (foo.bar=value)
+
+
+      $CONFIG
+
+
+      ${hydra.help.footer}
+
+      '
+  hydra_help:
+    template: 'Hydra (${hydra.runtime.version})
+
+      See https://hydra.cc for more info.
+
+
+      == Flags ==
+
+      $FLAGS_HELP
+
+
+      == Configuration groups ==
+
+      Compose your configuration from those groups (For example, append hydra/job_logging=disabled
+      to command line)
+
+
+      $HYDRA_CONFIG_GROUPS
+
+
+      Use ''--cfg hydra'' to Show the Hydra config.
+
+      '
+    hydra_help: ???
+  hydra_logging:
+    version: 1
+    formatters:
+      colorlog:
+        (): colorlog.ColoredFormatter
+        format: '[%(cyan)s%(asctime)s%(reset)s][%(purple)sHYDRA%(reset)s] %(message)s'
+    handlers:
+      console:
+        class: logging.StreamHandler
+        formatter: colorlog
+        stream: ext://sys.stdout
+    root:
+      level: INFO
+      handlers:
+      - console
+    disable_existing_loggers: false
+  job_logging:
+    version: 1
+    formatters:
+      simple:
+        format: '[%(asctime)s][%(name)s][%(levelname)s] - %(message)s'
+      colorlog:
+        (): colorlog.ColoredFormatter
+        format: '[%(cyan)s%(asctime)s%(reset)s][%(blue)s%(name)s%(reset)s][%(log_color)s%(levelname)s%(reset)s]
+          - %(message)s'
+        log_colors:
+          DEBUG: purple
+          INFO: green
+          WARNING: yellow
+          ERROR: red
+          CRITICAL: red
+    handlers:
+      console:
+        class: logging.StreamHandler
+        formatter: colorlog
+        stream: ext://sys.stdout
+      file:
+        class: dcase24t6.utils.hydra.CustomFileHandler
+        formatter: simple
+        filename: ${hydra.sweep.dir}/${hydra.sweep.subdir}/outputs/stdout.log
+    root:
+      level: INFO
+      handlers:
+      - console
+      - file
+    disable_existing_loggers: false
+  env: {}
+  mode: !!python/object/apply:hydra.types.RunMode
+  - 1
+  searchpath: []
+  callbacks: {}
+  output_subdir: ${hydra.sweep.subdir}/hydra
+  overrides:
+    hydra:
+    - hydra.mode=RUN
+    task:
+    - +expt=baseline
+  job:
+    name: train
+    chdir: null
+    override_dirname: +expt=baseline
+    id: ???
+    num: 0
+    config_name: train
+    env_set: {}
+    env_copy: []
+    config:
+      override_dirname:
+        kv_sep: '='
+        item_sep: ','
+        exclude_keys: []
+  runtime:
+    version: 1.3.2
+    version_base: '1.3'
+    cwd: /home/gisp3/Additional_Disk_4T_2/yt/dcase2024-task6-baseline
+    config_sources:
+    - path: hydra.conf
+      schema: pkg
+      provider: hydra
+    - path: conf
+      schema: pkg
+      provider: main
+    - path: hydra_plugins.hydra_colorlog.conf
+      schema: pkg
+      provider: hydra-colorlog
+    - path: ''
+      schema: structured
+      provider: schema
+    output_dir: /home/gisp3/Additional_Disk_4T_2/yt/dcase2024-task6-baseline/logs/train-2025.03.28-00.27.34-baseline
+    choices:
+      expt: baseline
+      hydra: custom
+      path: local
+      tokenizer: word
+      model: trans_decoder
+      emission: online
+      datamodule: hdf
+      ckpt: custom
+      hydra/env: default
+      hydra/callbacks: null
+      hydra/job_logging: custom
+      hydra/hydra_logging: colorlog
+      hydra/hydra_help: default
+      hydra/help: default
+      hydra/sweeper: basic
+      hydra/launcher: basic
+      hydra/output: default
+  verbose: false

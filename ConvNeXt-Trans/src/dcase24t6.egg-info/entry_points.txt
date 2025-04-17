@@ -1,0 +1,5 @@
+[console_scripts]
+dcase24t6-info = dcase24t6.info:print_info
+dcase24t6-prepare = dcase24t6.prepare:prepare
+dcase24t6-test = dcase24t6.test:test
+dcase24t6-train = dcase24t6.train:train

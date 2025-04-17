@@ -1,0 +1,16 @@
+in_features: 768
+d_model: 256
+label_smoothing: 0.2
+mixup_alpha: 0.4
+min_pred_size: 3
+max_pred_size: 20
+beam_size: 3
+custom_weight_decay: true
+lr: 0.0005
+betas:
+- 0.9
+- 0.999
+eps: 1.0e-08
+weight_decay: 2
+sched_num_steps: 200
+verbose: 1

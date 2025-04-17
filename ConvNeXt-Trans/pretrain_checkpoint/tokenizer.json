@@ -1,0 +1,258 @@
+{
+  "version": 1,
+  "truncation": null,
+  "padding": {
+    "strategy": "BatchLongest",
+    "direction": "Right",
+    "pad_to_multiple_of": null,
+    "pad_id": 0,
+    "pad_type_id": 0,
+    "pad_token": "<pad>"
+  },
+  "added_tokens": [
+    {
+      "id": 0,
+      "content": "<pad>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 1,
+      "content": "<bos>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 2,
+      "content": "<eos>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    },
+    {
+      "id": 3,
+      "content": "<unk>",
+      "single_word": false,
+      "lstrip": false,
+      "rstrip": false,
+      "normalized": false,
+      "special": true
+    }
+  ],
+  "normalizer": {
+    "type": "Sequence",
+    "normalizers": [
+      {
+        "type": "Lowercase"
+      },
+      {
+        "type": "Strip",
+        "strip_left": true,
+        "strip_right": true
+      },
+      {
+        "type": "StripAccents"
+      },
+      {
+        "type": "Replace",
+        "pattern": {
+          "String": "\u201c"
+        },
+        "content": "\""
+      },
+      {
+        "type": "Replace",
+        "pattern": {
+          "String": "\u201d"
+        },
+        "content": "\""
+      },
+      {
+        "type": "Replace",
+        "pattern": {
+          "String": "`"
+        },
+        "content": "'"
+      },
+      {
+        "type": "Replace",
+        "pattern": {
+          "String": "\u2019"
+        },
+        "content": "'"
+      },
+      {
+        "type": "Replace",
+        "pattern": {
+          "String": ";"
+        },
+        "content": ","
+      },
+      {
+        "type": "Replace",
+        "pattern": {
+          "String": "\u2026"
+        },
+        "content": "..."
+      },
+      {
+        "type": "Replace",
+        "pattern": {
+          "Regex": "\\s*-\\s*"
+        },
+        "content": "-"
+      },
+      {
+        "type": "Replace",
+        "pattern": {
+          "Regex": "[.!?;:\\\"\u201c\u201d\u2019`\\(\\)\\{\\}\\[\\]\\*\\\u00d7\\-#/+_~\u0298\\\\/]"
+        },
+        "content": " "
+      },
+      {
+        "type": "Replace",
+        "pattern": {
+          "Regex": "\\s+"
+        },
+        "content": " "
+      }
+    ]
+  },
+  "pre_tokenizer": {
+    "type": "Sequence",
+    "pretokenizers": [
+      {
+        "type": "Whitespace"
+      }
+    ]
+  },
+  "post_processor": {
+    "type": "Sequence",
+    "processors": [
+      {
+        "type": "TemplateProcessing",
+        "single": [
+          {
+            "SpecialToken": {
+              "id": "<bos>",
+              "type_id": 0
+            }
+          },
+          {
+            "Sequence": {
+              "id": "A",
+              "type_id": 0
+            }
+          },
+          {
+            "SpecialToken": {
+              "id": "<eos>",
+              "type_id": 0
+            }
+          }
+        ],
+        "pair": [
+          {
+            "Sequence": {
+              "id": "A",
+              "type_id": 0
+            }
+          },
+          {
+            "Sequence": {
+              "id": "B",
+              "type_id": 1
+            }
+          }
+        ],
+        "special_tokens": {
+          "<bos>": {
+            "id": "<bos>",
+            "ids": [
+              1
+            ],
+            "tokens": [
+              "<bos>"
+            ]
+          },
+          "<eos>": {
+            "id": "<eos>",
+            "ids": [
+              2
+            ],
+            "tokens": [
+              "<eos>"
+            ]
+          }
+        }
+      }
+    ]
+  },
+  "decoder": null,
+  "model": {
+    "type": "WordLevel",
+    "vocab": {
+      "<pad>": 0,
+      "<bos>": 1,
+      "<eos>": 2,
+      "<unk>": 3,
+      ",": 4,
+      "and": 5,
+      "i": 6,
+      "sounds": 7,
+      "agree": 8,
+      "is": 9,
+      "soundscape": 10,
+      "that": 11,
+      "the": 12,
+      "heard": 13,
+      "in": 14,
+      "this": 15,
+      "traffic": 16,
+      "animal": 17,
+      "of": 18,
+      "things": 19,
+      "human": 20,
+      "speech": 21,
+      "vehicle": 22,
+      "background": 23,
+      "environment": 24,
+      "noise": 25,
+      "natural": 26,
+      "music": 27,
+      "street": 28,
+      "uneventful": 29,
+      "bird": 30,
+      "monotonous": 31,
+      "eventful": 32,
+      "water": 33,
+      "pleasant": 34,
+      "strongly": 35,
+      "calm": 36,
+      "annoying": 37,
+      "vibrant": 38,
+      "chaotic": 39,
+      "public": 40,
+      "square": 41,
+      "park": 42,
+      "or": 43,
+      "outside": 44,
+      "rural": 45,
+      "wind": 46,
+      "silence": 47
+    },
+    "unk_token": "<unk>"
+  },
+  "pad_token": "<pad>",
+  "bos_token": "<bos>",
+  "eos_token": "<eos>",
+  "unk_token": "<unk>"
+}

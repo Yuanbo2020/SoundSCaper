@@ -1,0 +1,76 @@
+[2025-03-16 22:22:23,272] [INFO] [real_accelerator.py:191:get_accelerator] Setting ds_accelerator to cuda (auto detect)
+[[36m2025-03-16 22:22:28,649[0m][[34mdcase24t6.prepare[0m][[32mINFO[0m] - Configuration:
+emission:
+  _target_: dcase24t6.callbacks.emissions.CustomEmissionTracker
+  save_dir: ./logs/prepare-2025.03.16-22.22.23-clotho_cnext/.
+  emissions_fname: emissions/{task}_emissions.yaml
+  country_iso_code: null
+  offline: false
+  disabled: false
+  experiment_name: prepare-2025.03.16-22.22.23-clotho_cnext
+pre_process:
+  _target_: dcase24t6.pre_processes.cnext.ResampleMeanCNext
+  model_name_or_path: cnext_bl_70
+  model_sr: 32000
+  offline: false
+  device: cuda_if_available
+path:
+  data_root: ./data
+  save_root: ./logs
+datetime: 2025.03.16-22.22.23
+save_dir: ./logs/prepare-2025.03.16-22.22.23-clotho_cnext/.
+save_name: prepare-2025.03.16-22.22.23-clotho_cnext
+seed: 42
+verbose: 1
+data:
+  subsets:
+  - dev
+  - val
+  - eval
+  - dcase_aac_test
+  - dcase_aac_analysis
+  download: true
+  force: false
+hdf_pattern: '{dataset}_{subset}_cnext.hdf'
+overwrite: false
+batch_size: 32
+num_workers: auto
+size_limit: null
+[0m
+[[36m2025-03-16 22:22:32,108[0m][[34maac_metrics.download[0m][[32mINFO[0m] - aac-metrics download started.[0m
+[[36m2025-03-16 22:22:32,109[0m][[34maac_metrics.download[0m][[32mINFO[0m] - Stanford model file 'stanford_nlp' is already downloaded.[0m
+[[36m2025-03-16 22:22:32,109[0m][[34maac_metrics.download[0m][[32mINFO[0m] - Meteor file 'meteor' is already downloaded.[0m
+[[36m2025-03-16 22:22:32,110[0m][[34maac_metrics.download[0m][[32mINFO[0m] - Meteor file 'meteor_data' is already downloaded.[0m
+[[36m2025-03-16 22:22:32,110[0m][[34maac_metrics.download[0m][[32mINFO[0m] - Meteor file 'meteor_data_fr' is already downloaded.[0m
+[[36m2025-03-16 22:22:32,110[0m][[34maac_metrics.download[0m][[32mINFO[0m] - Meteor file 'meteor_data_de' is already downloaded.[0m
+[[36m2025-03-16 22:22:32,110[0m][[34maac_metrics.download[0m][[32mINFO[0m] - Meteor file 'meteor_data_es' is already downloaded.[0m
+[[36m2025-03-16 22:22:32,111[0m][[34maac_metrics.download[0m][[32mINFO[0m] - Meteor file 'meteor_data_cz' is already downloaded.[0m
+[[36m2025-03-16 22:22:32,111[0m][[34maac_metrics.download[0m][[32mINFO[0m] - Downloading SBERT and BERT error detector for FENSE metric...[0m
+[[36m2025-03-16 22:22:32,112[0m][[34msentence_transformers.SentenceTransformer[0m][[32mINFO[0m] - Load pretrained SentenceTransformer: paraphrase-TinyBERT-L6-v2[0m
+[[36m2025-03-16 22:22:37,512[0m][[34maac_metrics.download[0m][[32mINFO[0m] - Downloading BERT model for BERTScore metric...[0m
+[[36m2025-03-16 22:22:43,290[0m][[34maac_metrics.download[0m][[32mINFO[0m] - aac-metrics download finished.[0m
+[[36m2025-03-16 22:22:43,291[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - Start to download files for clotho_dev...[0m
+[[36m2025-03-16 22:22:43,291[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - File 'clotho_audio_development.7z' is already downloaded.[0m
+[[36m2025-03-16 22:22:54,150[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - File 'clotho_captions_development.csv' is already downloaded.[0m
+[[36m2025-03-16 22:22:54,154[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - File 'clotho_metadata_development.csv' is already downloaded.[0m
+[[36m2025-03-16 22:22:54,156[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - Extract archive file fname=clotho_audio_development.7z...[0m
+[[36m2025-03-16 22:22:54,212[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - Start to download files for clotho_val...[0m
+[[36m2025-03-16 22:22:54,212[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - File 'clotho_audio_validation.7z' is already downloaded.[0m
+[[36m2025-03-16 22:22:57,238[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - File 'clotho_captions_validation.csv' is already downloaded.[0m
+[[36m2025-03-16 22:22:57,239[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - File 'clotho_metadata_validation.csv' is already downloaded.[0m
+[[36m2025-03-16 22:22:57,240[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - Extract archive file fname=clotho_audio_validation.7z...[0m
+[[36m2025-03-16 22:22:57,255[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - Start to download files for clotho_eval...[0m
+[[36m2025-03-16 22:22:57,255[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - File 'clotho_audio_evaluation.7z' is already downloaded.[0m
+[[36m2025-03-16 22:23:00,166[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - File 'clotho_captions_evaluation.csv' is already downloaded.[0m
+[[36m2025-03-16 22:23:00,167[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - File 'clotho_metadata_evaluation.csv' is already downloaded.[0m
+[[36m2025-03-16 22:23:00,168[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - Extract archive file fname=clotho_audio_evaluation.7z...[0m
+[[36m2025-03-16 22:23:00,184[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - Start to download files for clotho_dcase_aac_test...[0m
+[[36m2025-03-16 22:23:00,184[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - File 'clotho_audio_test.7z' is already downloaded.[0m
+[[36m2025-03-16 22:23:03,108[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - File 'clotho_metadata_test.csv' is already downloaded.[0m
+[[36m2025-03-16 22:23:03,109[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - Extract archive file fname=clotho_audio_test.7z...[0m
+[[36m2025-03-16 22:23:03,120[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - Start to download files for clotho_dcase_aac_analysis...[0m
+[[36m2025-03-16 22:23:03,120[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - File 'clotho_analysis_2022.zip' is already downloaded.[0m
+[[36m2025-03-16 22:23:36,905[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - Extract archive file fname=clotho_analysis_2022.zip...[0m
+[[36m2025-03-16 22:23:37,026[0m][[34maac_datasets.datasets.functional.clotho[0m][[32mINFO[0m] - Dataset Clotho (dev) has been loaded. (size=3839)[0m
+[2025-03-16 22:23:37,317] [INFO] [profiler.py:80:start_profile] Flops profiler started
+[2025-03-16 22:23:37,387] [INFO] [profiler.py:226:end_profile] Flops profiler finished

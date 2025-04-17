@@ -1,0 +1,31 @@
+timestamp: '2025-03-28T17:33:15'
+project_name: dcase24t6
+run_id: 4cb39df7-6417-420a-9791-04a0b499c0d0
+duration: 61536.10503697395
+emissions: 6.263636957702065
+emissions_rate: 0.00010178800073043405
+cpu_power: 42.5
+gpu_power: 536.3324079458894
+ram_power: 94.32538175582886
+cpu_energy: 0.7264679098135896
+gpu_energy: 9.167723910839939
+ram_energy: 1.6123378478570294
+energy_consumed: 11.506529668510558
+country_name: China
+country_iso_code: CHN
+region: ''
+cloud_provider: ''
+cloud_region: ''
+os: Linux-5.15.0-86-generic-x86_64-with-glibc2.31
+python_version: 3.11.11
+codecarbon_version: 2.3.4
+cpu_count: 48
+cpu_model: Intel(R) Xeon(R) Silver 4214 CPU @ 2.20GHz
+gpu_count: 2
+gpu_model: 2 x NVIDIA GeForce RTX 3090
+longitude: 113.722
+latitude: 34.7732
+ram_total_size: 251.53435134887695
+tracking_mode: machine
+on_cloud: N
+pue: 1.0

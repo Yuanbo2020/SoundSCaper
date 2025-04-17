@@ -1,0 +1,117 @@
+ckpt:
+  _target_: dcase24t6.callbacks.ckpt.CustomModelCheckpoint
+  dirpath: ${save_dir}/checkpoints
+  monitor: val/loss
+  mode: min
+  filename: '{epoch:03d}-{step:06d}-mode_${ckpt.mode}-{${ckpt.monitor}:.4f}'
+  replace_slash_in_filename: true
+  create_best_symlink: true
+datamodule:
+  _target_: dcase24t6.datamodules.hdf.HDFDatamodule
+  root: ${path.data_root}
+  train_hdfs: custom_train_cnext.hdf
+  val_hdfs: custom_val_cnext.hdf
+  test_hdfs: custom_val_cnext.hdf
+  predict_hdfs:
+  - clotho_dcase_aac_analysis_cnext.hdf
+  - clotho_dcase_aac_test_cnext.hdf
+  train_batch_keys:
+  - frame_embs
+  - frame_embs_shape
+  - captions
+  val_batch_keys:
+  - frame_embs
+  - frame_embs_shape
+  - dataset
+  - subset
+  - fname
+  - mult_captions
+  - mult_references
+  test_batch_keys:
+  - frame_embs
+  - frame_embs_shape
+  - dataset
+  - subset
+  - fname
+  - mult_captions
+  - mult_references
+  predict_batch_keys:
+  - frame_embs
+  - frame_embs_shape
+  - dataset
+  - subset
+  - fname
+  batch_size: 64
+  num_workers: auto
+  pin_memory: true
+  train_drop_last: false
+  verbose: ${verbose}
+emission:
+  _target_: dcase24t6.callbacks.emissions.CustomEmissionTracker
+  save_dir: ${save_dir}
+  emissions_fname: emissions/{task}_emissions.yaml
+  country_iso_code: null
+  offline: false
+  disabled: false
+  experiment_name: ${save_name}
+model:
+  _target_: dcase24t6.models.trans_decoder.TransDecoderModel
+  sched_num_steps: ${trainer.max_epochs}
+  verbose: ${verbose}
+  lr: 0.0005
+  weight_decay: 2
+  beam_size: 3
+  d_model: 256
+  label_smoothing: 0.2
+  mixup_alpha: 0.4
+tokenizer:
+  _target_: dcase24t6.tokenization.aac_tokenizer.AACTokenizer
+path:
+  data_root: ./data
+  save_root: ./logs
+datetime: ${now:%Y.%m.%d-%H.%M.%S}
+save_dir: ${hydra:sweep.dir}/${hydra:sweep.subdir}
+save_name: ${hydra:job.name}-${datetime}-baseline
+seed: 42
+verbose: 1
+val_ckpt_path: null
+test_ckpt_path: best
+logger:
+  _target_: lightning.pytorch.loggers.tensorboard.TensorBoardLogger
+  save_dir: ${save_dir}
+  name: tensorboard
+  version: .
+trainer:
+  _target_: lightning.pytorch.trainer.Trainer
+  accelerator: gpu
+  accumulate_grad_batches: 8
+  benchmark: false
+  detect_anomaly: false
+  deterministic: false
+  devices: 1
+  enable_checkpointing: true
+  enable_model_summary: false
+  fast_dev_run: false
+  gradient_clip_algorithm: norm
+  gradient_clip_val: 1
+  limit_predict_batches: null
+  limit_test_batches: null
+  limit_train_batches: null
+  limit_val_batches: null
+  log_every_n_steps: 5
+  max_epochs: 200
+  max_steps: -1
+  num_nodes: 1
+  num_sanity_val_steps: 0
+  precision: 32
+  reload_dataloaders_every_n_epochs: 0
+  val_check_interval: null
+evaluator:
+  _target_: dcase24t6.callbacks.evaluator.Evaluator
+  save_dir: ${save_dir}
+  val_metrics:
+  - cider_d
+  - vocab
+  test_metrics: all
+  exclude_keys:
+  - frame_embs
