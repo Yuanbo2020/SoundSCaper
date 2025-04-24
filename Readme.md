@@ -39,7 +39,9 @@ We thank Prof. Jian Guan and Feiyang Xiao for their valuable support in revising
     + [2. SoundAQnet with different numbers of convolution layers ](SoundAQnet_blocks)
     + [3. SoundAQnet with different dilation rates](SoundAQnet_dilation_rates)
     + [4. SoundAQnet with multi-loss weighting](SoundAQnet_multi_loss_weighting)
-    + [5. ConvNeXt-Trans](ConvNeXt-Trans)
+    + [5. SoundAQnet_CLAP_AFF](SoundAQnet_CLAP_AFF)
+    + [6. ConvNeXt-Trans](ConvNeXt-Trans)
+   * [Case study](Case_study)
 <br>
 
 ## Introduction
