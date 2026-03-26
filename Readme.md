@@ -1,6 +1,6 @@
 # Automatic soundscape captioner (SoundSCaper): Soundscape Captioning using Sound Affective Quality Network and Large Language Model
 
-Paper link: https://arxiv.org/abs/2406.05914
+Paper link: [IEEE TMM](https://ieeexplore.ieee.org/document/11329491)
 
 ResearchGate: [SoundSCaper](https://www.researchgate.net/publication/381307435_Soundscape_Captioning_using_Sound_Affective_Quality_Network_and_Large_Language_Model)
 
@@ -10,6 +10,18 @@ We also appreciate the following 32 audio/soundscape experts and general users w
 We thank Prof. Jian Guan and Feiyang Xiao for their valuable support in revising this paper and assisting with model training.
 <br />
 
+If relevant, please feel free to consider citing our paper:
+```bibtex
+@ARTICLE{TMM_SoundScaper,
+  author={Hou, Yuanbo and Ren, Qiaoqiao and Mitchell, Andrew and Wang, Wenwu and Kang, Jian and Belpaeme, Tony and Botteldooren, Dick},
+  journal={IEEE Transactions on Multimedia}, 
+  title={Soundscape Captioning Using Sound Affective Quality Network and Large Language Model}, 
+  year={2026},
+  volume={28},
+  number={},
+  pages={2186-2200}, 
+  doi={10.1109/TMM.2026.3651023}}
+```
 -------
 
 - [SoundSCaper](#automatic-soundscape-captioner--soundscaper---soundscape-captioning-using-sound-affective-quality-network-and-large-language-model)
